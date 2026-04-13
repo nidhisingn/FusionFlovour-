@@ -1,0 +1,31 @@
+[ {
+  "id" : "5882e346-ddbf-4067-9638-3f1de534f619",
+  "name" : "Aman",
+  "email" : "aman.am.raj.it@gmail.com",
+  "passwordHash" : "$2a$10$/qYY9HYnos3ozmEZGVk6WukJOCpmKugxcWpcHP8InWmrChpPiK9dG",
+  "role" : "USER",
+  "createdAt" : 1774121832.965891000,
+  "allergyProfile" : [ ],
+  "preferredCuisines" : [ ],
+  "dietPreference" : null
+}, {
+  "id" : "7b9fd78c-26d8-447b-91b5-3640c8080f9d",
+  "name" : "nidhi",
+  "email" : "nidhi@gamil.com",
+  "passwordHash" : "$2a$10$a45RIdAje7C5R6Fg6pluQ.JcYSWXjtwOG.uko.iZSpoQTFP6WBEx2",
+  "role" : "USER",
+  "createdAt" : 1775479870.707051000,
+  "allergyProfile" : [ "nuts" ],
+  "preferredCuisines" : [ "indian" ],
+  "dietPreference" : "balanced"
+}, {
+  "id" : "a29ccc04-dfb6-42cd-982f-ccc7ee6baf9c",
+  "name" : "amanraj",
+  "email" : "amanraj@gmail.com",
+  "passwordHash" : "$2a$10$Krgm/MbmtpUeYFoNsZiai.KGILSw2BcD1tQxDnwJqLW4GFcwRglOi",
+  "role" : "USER",
+  "createdAt" : 1775742494.199086000,
+  "allergyProfile" : [ "dairy", "nuts" ],
+  "preferredCuisines" : [ "indian" ],
+  "dietPreference" : "balanced"
+} ]

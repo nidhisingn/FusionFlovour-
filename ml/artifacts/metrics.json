@@ -1,0 +1,141 @@
+{
+  "n_rows": 40,
+  "n_original_rows": 34,
+  "n_augmented_rows": 6,
+  "n_group_classes": 10,
+  "target_groups": [
+    "breakfast",
+    "curry",
+    "dip_spread",
+    "misc_recipe",
+    "pasta_noodles",
+    "rice",
+    "salad",
+    "side_dish",
+    "soup",
+    "wrap_roll"
+  ],
+  "cv_strategy": {
+    "type": "StratifiedKFold",
+    "splits": 3
+  },
+  "results": [
+    {
+      "name": "logreg_ovr",
+      "cv_accuracy_mean": 0.7765567765567765,
+      "cv_top3_mean": 0.8754578754578755,
+      "fold_metrics": [
+        {
+          "accuracy": 0.7142857142857143,
+          "top3": 0.8571428571428571
+        },
+        {
+          "accuracy": 0.9230769230769231,
+          "top3": 0.9230769230769231
+        },
+        {
+          "accuracy": 0.6923076923076923,
+          "top3": 0.8461538461538461
+        }
+      ],
+      "artifact": "logreg_ovr.joblib"
+    },
+    {
+      "name": "linear_svc_calibrated_ovr",
+      "cv_accuracy_mean": 0.7985347985347985,
+      "cv_top3_mean": 0.847985347985348,
+      "fold_metrics": [
+        {
+          "accuracy": 0.8571428571428571,
+          "top3": 0.9285714285714286
+        },
+        {
+          "accuracy": 0.8461538461538461,
+          "top3": 0.8461538461538461
+        },
+        {
+          "accuracy": 0.6923076923076923,
+          "top3": 0.7692307692307693
+        }
+      ],
+      "artifact": "linear_svc_calibrated_ovr.joblib"
+    },
+    {
+      "name": "multinomial_nb",
+      "cv_accuracy_mean": 0.7252747252747254,
+      "cv_top3_mean": 0.8260073260073261,
+      "fold_metrics": [
+        {
+          "accuracy": 0.7142857142857143,
+          "top3": 0.7857142857142857
+        },
+        {
+          "accuracy": 0.8461538461538461,
+          "top3": 0.9230769230769231
+        },
+        {
+          "accuracy": 0.6153846153846154,
+          "top3": 0.7692307692307693
+        }
+      ],
+      "artifact": "multinomial_nb.joblib"
+    },
+    {
+      "name": "random_forest",
+      "cv_accuracy_mean": 0.7765567765567766,
+      "cv_top3_mean": 0.8736263736263736,
+      "fold_metrics": [
+        {
+          "accuracy": 0.7142857142857143,
+          "top3": 0.9285714285714286
+        },
+        {
+          "accuracy": 0.8461538461538461,
+          "top3": 0.9230769230769231
+        },
+        {
+          "accuracy": 0.7692307692307693,
+          "top3": 0.7692307692307693
+        }
+      ],
+      "artifact": "random_forest.joblib"
+    },
+    {
+      "name": "sklearn_mlp",
+      "cv_accuracy_mean": 0.38278388278388276,
+      "cv_top3_mean": 0.63003663003663,
+      "fold_metrics": [
+        {
+          "accuracy": 0.07142857142857142,
+          "top3": 0.42857142857142855
+        },
+        {
+          "accuracy": 0.6153846153846154,
+          "top3": 0.8461538461538461
+        },
+        {
+          "accuracy": 0.46153846153846156,
+          "top3": 0.6153846153846154
+        }
+      ],
+      "artifact": "sklearn_mlp.joblib"
+    }
+  ],
+  "best": {
+    "name": "logreg_ovr",
+    "cv_accuracy_mean": 0.7765567765567765,
+    "cv_top3_mean": 0.8754578754578755,
+    "artifact": "logreg_ovr.joblib"
+  },
+  "feature_strategy": {
+    "ingredients": "TF-IDF unigram+bigram",
+    "metadata": [
+      "cuisines",
+      "diets",
+      "dishTypes"
+    ],
+    "target": "Grouped recipe families",
+    "inference": "Model probabilities + retrieval reranking"
+  },
+  "dataset_recommendation": "For production quality, collect many more recipes per group and replace synthetic augmentation with true examples."
+}

@@ -1,0 +1,376 @@
+
+█████████████████████████████████████████████████████████████████
+  🇮🇳  INDIAN STOCK ANALYZER
+  Income Statement | Key Ratios | Cash Flow | Balance Sheet
+█████████████████████████████████████████████████████████████████
+
+  📁 Log folder : runs
+  📝 Output log : 03mar_12-46am.txt
+
+  TICKER FORMAT:
+  ┌─────────────────┬─────────────────────┐
+  │ Company         │ Ticker Symbol       │
+  ├─────────────────┼─────────────────────┤
+  │ HUL             │ HINDUNILVR.NS       │
+  │ TCS             │ TCS.NS              │
+  │ Sun Pharma      │ SUNPHARMA.NS        │
+  │ Infosys         │ INFY.NS             │
+  │ HDFC Bank       │ HDFCBANK.NS         │
+  │ Reliance        │ RELIANCE.NS         │
+  │ Asian Paints    │ ASIANPAINT.NS       │
+  │ Maruti Suzuki   │ MARUTI.NS           │
+  │ Bajaj Finance   │ BAJFINANCE.NS       │
+  │ Wipro           │ WIPRO.NS            │
+  └─────────────────┴─────────────────────┘
+    
+─────────────────────────────────────────────────────────────────
+  Enter ticker symbol(s) (comma-separated) or 'quit' to exit: 
+█████████████████████████████████████████████████████████████████
+  FETCHING DATA FOR: HINDUNILVR.NS
+█████████████████████████████████████████████████████████████████
+  Please wait...
+
+  ✅ Data fetched successfully!
+  Company  : Hindustan Unilever Limited
+  Sector   : Consumer Defensive
+  Industry : Household & Personal Products
+  Exchange : NSI
+
+═════════════════════════════════════════════════════════════════
+  📊 CURRENT MARKET SNAPSHOT
+═════════════════════════════════════════════════════════════════
+--------------  ----------------------------
+Current Price                        ₹2320.6
+Previous Close                       ₹2338.1
+52 Week High    ₹2750.0  (-15.61% from High)
+52 Week Low       ₹2136.0  (+8.64% from Low)
+Market Cap                     ₹545325.37 Cr
+Currency                                 INR
+--------------  ----------------------------
+
+═════════════════════════════════════════════════════════════════
+  📐 KEY RATIOS
+═════════════════════════════════════════════════════════════════
+------------------------  ---------
+─── VALUATION ───
+P/E Ratio (Trailing)         53.94x
+P/E Ratio (Forward)          47.12x
+P/B Ratio                    11.19x
+P/S Ratio                     8.38x
+PEG Ratio                       N/A
+EPS (Trailing)               ₹43.02
+EPS (Forward)                ₹49.25
+─── PROFITABILITY ───
+ROE (Return on Equity)          N/A
+ROA (Return on Assets)          N/A
+─── DEBT & LIQUIDITY ───
+Debt/Equity Ratio             0.04x
+Current Ratio                   N/A
+Quick Ratio                     N/A
+─── DIVIDEND & RISK ───
+Dividend Yield               184.0%
+Beta                      ₹0.268 Cr
+------------------------  ---------
+
+  💡 QUICK INTERPRETATION:
+  P/E 53.942352x → Very expensive, growth must justify this
+  D/E 0.04x → Very low debt, financially safe ✅
+
+═════════════════════════════════════════════════════════════════
+  📈 INCOME STATEMENT — Last 5 Years (₹ Crores)
+═════════════════════════════════════════════════════════════════
+Metric            2025     2024     2023     2022     2021
+----------------  -------  -------  -------  -------  ------
+Total Revenue     ₹62,288  ₹60,966  ₹59,549  ₹51,548  N/A
+Cost Of Revenue   ₹31,859  ₹30,892  ₹32,719  ₹26,587  N/A
+Gross Profit      ₹30,429  ₹30,074  ₹26,830  ₹24,961  N/A
+Operating Income  ₹13,496  ₹13,447  ₹13,010  ₹11,766  N/A
+EBITDA            ₹16,173  ₹15,476  ₹14,610  ₹13,086  N/A
+Pretax Income     ₹14,415  ₹13,926  ₹13,344  ₹11,874  N/A
+Tax Provision     ₹3,744   ₹3,644   ₹3,201   ₹2,987   N/A
+Net Income        ₹10,649  ₹10,277  ₹10,120  ₹8,879   N/A
+
+  📊 MARGIN ANALYSIS:
+Metric              2025    2024    2023    2022    2021
+------------------  ------  ------  ------  ------  ------
+Gross Margin %      48.85%  49.33%  45.06%  48.42%  nan%
+Operating Margin %  21.67%  22.06%  21.85%  22.83%  nan%
+Net Margin %        17.1%   16.86%  16.99%  17.22%  nan%
+
+═════════════════════════════════════════════════════════════════
+  💰 CASH FLOW STATEMENT — Last 5 Years (₹ Crores)
+═════════════════════════════════════════════════════════════════
+Metric               2025      2024      2023     2022     2021
+-------------------  --------  --------  -------  -------  ------
+Operating Cash Flow  ₹11,886   ₹15,469   ₹9,991   ₹9,048   N/A
+Capital Expenditure  ₹-1,275   ₹-1,477   ₹-1,192  ₹-1,228  N/A
+Investing Cash Flow  ₹6,473    ₹-5,324   ₹-1,494  ₹-1,728  N/A
+Financing Cash Flow  ₹-13,101  ₹-10,034  ₹-8,953  ₹-8,015  N/A
+Free Cash Flow       ₹10,611   ₹13,992   ₹8,799   ₹7,820   N/A
+
+  💡 FCF Yield (Latest Year) = 1.95%
+  Low FCF yield — check if capex heavy phase or weak business ⚠️
+
+═════════════════════════════════════════════════════════════════
+  🏦 BALANCE SHEET SNAPSHOT (₹ Crores)
+═════════════════════════════════════════════════════════════════
+Metric                                   2025     2024     2023     2022
+---------------------------------------  -------  -------  -------  -------
+Total Assets                             ₹79,880  ₹78,499  ₹73,087  ₹70,517
+Total Liabilities Net Minority Interest  N/A      N/A      N/A      N/A
+Stockholders Equity                      ₹49,402  ₹51,218  ₹50,304  ₹49,061
+Total Debt                               ₹1,648   ₹1,484   ₹1,219   ₹1,043
+Cash And Cash Equivalents                N/A      N/A      N/A      N/A
+
+═════════════════════════════════════════════════════════════════
+  🎯 OVERALL HEALTH SCORECARD
+═════════════════════════════════════════════════════════════════
+-----------  ---------------------------------
+❌ ROE        N/A% — Below 15% threshold
+✅ D/E Ratio  0.04x — Safe debt level
+✅ P/E Ratio  53.9x — Positive earnings
+✅ P/B Ratio  11.19x — Trading above book value
+-----------  ---------------------------------
+
+  SCORE: 3/4 parameters healthy
+  👍 Good — Most parameters healthy, minor concerns
+
+█████████████████████████████████████████████████████████████████
+  ANALYSIS COMPLETE — Hindustan Unilever Limited
+█████████████████████████████████████████████████████████████████
+
+
+█████████████████████████████████████████████████████████████████
+  FETCHING DATA FOR: TCS.NS
+█████████████████████████████████████████████████████████████████
+  Please wait...
+
+  ✅ Data fetched successfully!
+  Company  : Tata Consultancy Services Limited
+  Sector   : Technology
+  Industry : Information Technology Services
+  Exchange : NSI
+
+═════════════════════════════════════════════════════════════════
+  📊 CURRENT MARKET SNAPSHOT
+═════════════════════════════════════════════════════════════════
+--------------  ----------------------------
+Current Price                        ₹2613.5
+Previous Close                       ₹2637.4
+52 Week High    ₹3710.0  (-29.56% from High)
+52 Week Low       ₹2561.3  (+2.04% from Low)
+Market Cap                     ₹945587.17 Cr
+Currency                                 INR
+--------------  ----------------------------
+
+═════════════════════════════════════════════════════════════════
+  📐 KEY RATIOS
+═════════════════════════════════════════════════════════════════
+------------------------  --------
+─── VALUATION ───
+P/E Ratio (Trailing)        19.82x
+P/E Ratio (Forward)         17.01x
+P/B Ratio                    8.33x
+P/S Ratio                    3.63x
+PEG Ratio                      N/A
+EPS (Trailing)             ₹131.87
+EPS (Forward)              ₹153.67
+─── PROFITABILITY ───
+ROE (Return on Equity)      42.63%
+ROA (Return on Assets)      22.51%
+─── DEBT & LIQUIDITY ───
+Debt/Equity Ratio            0.09x
+Current Ratio                2.52x
+Quick Ratio                   2.3x
+─── DIVIDEND & RISK ───
+Dividend Yield              239.0%
+Beta                      ₹0.25 Cr
+------------------------  --------
+
+  💡 QUICK INTERPRETATION:
+  P/E 19.818762x → Fair valuation range
+  ROE 42.63% → Excellent capital efficiency ✅
+  D/E 0.09x → Very low debt, financially safe ✅
+
+═════════════════════════════════════════════════════════════════
+  📈 INCOME STATEMENT — Last 5 Years (₹ Crores)
+═════════════════════════════════════════════════════════════════
+Metric            2025      2024      2023      2022
+----------------  --------  --------  --------  --------
+Total Revenue     ₹255,324  ₹240,893  ₹225,458  ₹191,754
+Cost Of Revenue   ₹145,683  ₹132,871  ₹119,759  ₹100,267
+Gross Profit      ₹109,641  ₹108,022  ₹105,699  ₹91,487
+Operating Income  ₹62,293   ₹59,425   ₹54,377   ₹48,588
+EBITDA            ₹71,369   ₹67,760   ₹62,708   ₹57,075
+Pretax Income     ₹65,331   ₹61,997   ₹56,907   ₹51,687
+Tax Provision     ₹16,534   ₹15,898   ₹14,604   ₹13,238
+Net Income        ₹48,553   ₹45,908   ₹42,147   ₹38,327
+
+  📊 MARGIN ANALYSIS:
+Metric              2025    2024    2023    2022
+------------------  ------  ------  ------  ------
+Gross Margin %      42.94%  44.84%  46.88%  47.71%
+Operating Margin %  24.4%   24.67%  24.12%  25.34%
+Net Margin %        19.02%  19.06%  18.69%  19.99%
+
+═════════════════════════════════════════════════════════════════
+  💰 CASH FLOW STATEMENT — Last 5 Years (₹ Crores)
+═════════════════════════════════════════════════════════════════
+Metric               2025      2024      2023      2022      2021
+-------------------  --------  --------  --------  --------  ------
+Operating Cash Flow  ₹48,908   ₹44,338   ₹41,965   ₹39,949   N/A
+Capital Expenditure  ₹-3,937   ₹-2,674   ₹-3,100   ₹-2,995   N/A
+Investing Cash Flow  ₹-2,318   ₹6,026    ₹39       ₹-897     N/A
+Financing Cash Flow  ₹-47,438  ₹-48,536  ₹-47,878  ₹-33,581  N/A
+Free Cash Flow       ₹44,971   ₹41,664   ₹38,865   ₹36,954   N/A
+
+  💡 FCF Yield (Latest Year) = 4.76%
+  Moderate FCF yield — acceptable ✅
+
+═════════════════════════════════════════════════════════════════
+  🏦 BALANCE SHEET SNAPSHOT (₹ Crores)
+═════════════════════════════════════════════════════════════════
+Metric                                   2025      2024      2023      2022      2021
+---------------------------------------  --------  --------  --------  --------  ------
+Total Assets                             ₹159,629  ₹146,449  ₹143,651  ₹141,514  N/A
+Total Liabilities Net Minority Interest  N/A       N/A       N/A       N/A       N/A
+Stockholders Equity                      ₹94,756   ₹90,489   ₹90,424   ₹89,139   N/A
+Total Debt                               ₹9,392    ₹8,021    ₹7,688    ₹7,818    N/A
+Cash And Cash Equivalents                N/A       N/A       N/A       N/A       N/A
+
+═════════════════════════════════════════════════════════════════
+  🎯 OVERALL HEALTH SCORECARD
+═════════════════════════════════════════════════════════════════
+---------------  --------------------------------
+✅ ROE            42.63% — Good efficiency
+✅ D/E Ratio      0.09x — Safe debt level
+✅ P/E Ratio      19.8x — Positive earnings
+✅ P/B Ratio      8.33x — Trading above book value
+✅ Current Ratio  2.52x — Good liquidity
+---------------  --------------------------------
+
+  SCORE: 5/5 parameters healthy
+  🏆 Excellent — Strong across all checked parameters!
+
+█████████████████████████████████████████████████████████████████
+  ANALYSIS COMPLETE — Tata Consultancy Services Limited
+█████████████████████████████████████████████████████████████████
+
+
+█████████████████████████████████████████████████████████████████
+  FETCHING DATA FOR: HDFCBANK.NS
+█████████████████████████████████████████████████████████████████
+  Please wait...
+
+  ✅ Data fetched successfully!
+  Company  : HDFC Bank Limited
+  Sector   : Financial Services
+  Industry : Banks - Regional
+  Exchange : NSI
+
+═════════════════════════════════════════════════════════════════
+  📊 CURRENT MARKET SNAPSHOT
+═════════════════════════════════════════════════════════════════
+--------------  ----------------------------
+Current Price                         ₹879.4
+Previous Close                       ₹887.75
+52 Week High    ₹1020.5  (-13.83% from High)
+52 Week Low      ₹835.025  (+5.31% from Low)
+Market Cap                    ₹1353222.14 Cr
+Currency                                 INR
+--------------  ----------------------------
+
+═════════════════════════════════════════════════════════════════
+  📐 KEY RATIOS
+═════════════════════════════════════════════════════════════════
+------------------------  ---------
+─── VALUATION ───
+P/E Ratio (Trailing)         19.62x
+P/E Ratio (Forward)          15.76x
+P/B Ratio                      2.4x
+P/S Ratio                     4.76x
+PEG Ratio                       N/A
+EPS (Trailing)               ₹44.83
+EPS (Forward)                 ₹55.8
+─── PROFITABILITY ───
+ROE (Return on Equity)       14.02%
+ROA (Return on Assets)        1.75%
+─── DEBT & LIQUIDITY ───
+Debt/Equity Ratio               N/A
+Current Ratio                   N/A
+Quick Ratio                     N/A
+─── DIVIDEND & RISK ───
+Dividend Yield               124.0%
+Beta                      ₹0.396 Cr
+------------------------  ---------
+
+  💡 QUICK INTERPRETATION:
+  P/E 19.616327x → Fair valuation range
+  ROE 14.02% → Below average, check why ⚠️
+
+═════════════════════════════════════════════════════════════════
+  📈 INCOME STATEMENT — Last 5 Years (₹ Crores)
+═════════════════════════════════════════════════════════════════
+Metric            2025      2024      2023      2022      2021
+----------------  --------  --------  --------  --------  ------
+Total Revenue     ₹237,151  ₹198,693  ₹120,538  ₹101,941  N/A
+Cost Of Revenue   N/A       N/A       N/A       N/A       N/A
+Gross Profit      N/A       N/A       N/A       N/A       N/A
+Operating Income  N/A       N/A       N/A       N/A       N/A
+EBITDA            N/A       N/A       N/A       N/A       N/A
+Pretax Income     ₹86,155   ₹70,546   ₹66,238   ₹51,916   N/A
+Tax Provision     ₹17,501   ₹7,783    ₹16,612   ₹13,256   N/A
+Net Income        ₹67,351   ₹62,266   ₹49,545   ₹38,600   N/A
+
+  📊 MARGIN ANALYSIS:
+Metric              2025    2024    2023    2022    2021
+------------------  ------  ------  ------  ------  ------
+Gross Margin %      N/A     N/A     N/A     N/A     N/A
+Operating Margin %  N/A     N/A     N/A     N/A     N/A
+Net Margin %        28.4%   31.34%  41.1%   37.86%  nan%
+
+═════════════════════════════════════════════════════════════════
+  💰 CASH FLOW STATEMENT — Last 5 Years (₹ Crores)
+═════════════════════════════════════════════════════════════════
+Metric               2025       2024       2023       2022       2021
+-------------------  ---------  ---------  ---------  ---------  ------
+Operating Cash Flow  ₹119,562   ₹102,232   ₹47,720    ₹58,102    N/A
+Capital Expenditure  ₹-6,640    ₹-5,384    ₹-4,362    ₹-2,632    N/A
+Investing Cash Flow  ₹-371,606  ₹-367,256  ₹-439,278  ₹-330,228  N/A
+Financing Cash Flow  ₹241,935   ₹334,734   ₹417,391   ₹291,211   N/A
+Free Cash Flow       ₹112,922   ₹96,848    ₹43,358    ₹55,469    N/A
+
+  💡 FCF Yield (Latest Year) = 8.34%
+  Strong FCF yield — company generating good real cash ✅
+
+═════════════════════════════════════════════════════════════════
+  🏦 BALANCE SHEET SNAPSHOT (₹ Crores)
+═════════════════════════════════════════════════════════════════
+Metric                                   2025        2024        2023        2022        2021
+---------------------------------------  ----------  ----------  ----------  ----------  ------
+Total Assets                             ₹4,818,767  ₹4,411,857  ₹2,575,562  ₹2,111,371  N/A
+Total Liabilities Net Minority Interest  N/A         N/A         N/A         N/A         N/A
+Stockholders Equity                      ₹767,689    ₹694,733    ₹291,220    ₹250,484    N/A
+Total Debt                               ₹732,611    ₹809,355    ₹315,179    ₹218,664    N/A
+Cash And Cash Equivalents                N/A         N/A         N/A         N/A         N/A
+
+═════════════════════════════════════════════════════════════════
+  🎯 OVERALL HEALTH SCORECARD
+═════════════════════════════════════════════════════════════════
+-----------  -------------------------------
+❌ ROE        14.02% — Below 15% threshold
+✅ P/E Ratio  19.6x — Positive earnings
+✅ P/B Ratio  2.4x — Trading above book value
+-----------  -------------------------------
+
+  SCORE: 2/3 parameters healthy
+  ⚠️  Average — Several parameters need attention
+
+█████████████████████████████████████████████████████████████████
+  ANALYSIS COMPLETE — HDFC Bank Limited
+█████████████████████████████████████████████████████████████████
+
+
+  Analyze another stock? (y/n): 
+  👋 Happy investing!
+

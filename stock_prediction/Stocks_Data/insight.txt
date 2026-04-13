@@ -1,0 +1,616 @@
+======================================================================
+             SHORT TERM / EVENT-DRIVEN TRADING — COMPLETE PLAN
+======================================================================
+
+Scope:
+  This plan focuses on Short Term + Swing trades (2 days to 3 months).
+
+
+----------------------------------------------------------------------
+0) DEFINE "SHORT TERM" CLEARLY
+----------------------------------------------------------------------
+
+Intraday       -> Buy and sell same day
+Short Term     -> 2 days to 4 weeks
+Swing Trading  -> 1 week to 3 months
+Position Trade -> 3 months to 1 year
+
+What we are doing here -> Short Term + Swing (2 days to 3 months)
+
+---
+
+----------------------------------------------------------------------
+PHASE 1 — SETUP (Week 1–2)
+----------------------------------------------------------------------
+
+Before placing a single trade, get your infrastructure ready.
+
+---
+
+1A) Broker Setup
+
+You need a fast, reliable broker with good charting.
+
+Recommended for beginners:
+  • Zerodha  -> popular, low brokerage, good platform
+  • Groww    -> simple UI
+  • Upstox   -> fast execution, good charts
+
+Brokerage cost matters:
+  • Long-term investor -> brokerage usually not a big factor
+  • Short-term trader  -> brokerage directly eats profits
+
+Example (Zerodha pricing):
+  • Delivery = FREE
+  • Intraday = ₹20 per order (flat)
+  • F&O      = ₹20 per order (flat)
+
+---
+
+1B) Tools Setup
+
+Install and set up these tools (free):
+  1) Broker app (Zerodha Kite or equivalent)
+     -> Execution (buy/sell)
+
+  2) TradingView.com
+     -> Charts (entry/exit levels)
+
+  3) Trendlyne.com
+     -> Catalyst calendar (results, estimates, concalls)
+
+  4) NSE Announcements
+     -> Real-time company announcements
+        https://www.nseindia.com/companies-listing/corporate-filings-announcements
+
+  5) Moneycontrol
+     -> Breaking news + sentiment
+
+  6) Screener.in
+     -> Quick fundamental sanity check
+
+---
+
+1C) Build Your Watchlist
+
+**Do not trade stocks you don't understand.**
+
+Build a focused watchlist of **20-25 stocks** across sectors you've studied. Since we've already analyzed HUL, TCS, Sun Pharma — start there and expand.
+
+Suggested watchlist structure (20–25 total):
+
+  IT (4–5)
+    - TCS, Infosys, HCL Tech, Wipro, Tech Mahindra
+
+  FMCG (3–4)
+    - HUL, Nestle, Britannia, Marico
+
+  Pharma (4–5)
+    - Sun Pharma, Dr Reddy's, Cipla, Divi's, Lupin
+
+  Banking (3–4)
+    - HDFC Bank, ICICI Bank, Kotak Bank, Axis Bank
+
+  Auto (3–4)
+    - Maruti, Tata Motors, M&M, Bajaj Auto
+
+  Infra/Metal (2–3)
+    - L&T, Tata Steel, UltraTech
+
+For each stock, know these by heart:
+  • Sector + business model
+  • Current P/E (expensive/cheap vs history)
+  • Recent quarterly trend (improving/declining)
+  • Next results date
+  • Pending news/catalysts (FDA, deal, RBI, etc.)
+  • Key support/resistance levels
+
+---
+
+----------------------------------------------------------------------
+PHASE 2 — BASIC CHART READING (Week 2–3)
+----------------------------------------------------------------------
+
+For short term trading you need basic technical analysis. Not complex — just enough to time entry and exit better.
+
+---
+
+The only 4 chart concepts you need
+
+Concept 1 — Support and Resistance
+
+RESISTANCE: price level where stock struggles to go above (sellers show up)
+SUPPORT   : price level where stock stops falling (buyers show up)
+
+Example levels (TCS):
+  3,710  <- Resistance (52W high)
+  3,200  <- Resistance
+  2,613  <- Current price
+  2,561  <- Support (52W low)
+  2,400  <- Strong support below
+
+Trading rule:
+  • Buy near support (low risk; stop loss just below support)
+  • Sell near resistance (take profit before sellers appear)
+
+---
+
+Concept 2 — Trend
+
+UPTREND
+  • Higher highs + higher lows -> buy dips
+
+DOWNTREND
+  • Lower highs + lower lows -> avoid buying
+
+SIDEWAYS
+  • Range-bound -> buy bottom of range, sell top
+
+Golden rule:
+  Never buy a falling stock hoping it will reverse.
+  Wait for the trend to actually turn.
+
+---
+
+Concept 3 — Volume
+
+Volume = number of shares traded in a day.
+
+Price UP   + Volume UP    -> Strong move, genuine buying
+Price UP   + Volume DOWN  -> Weak move, may not sustain
+Price DOWN + Volume UP    -> Strong selling, avoid catching
+Price DOWN + Volume DOWN  -> Weak selling, may stabilize
+
+Whenever a news event happens — check if volume is unusually high. High volume confirms the move is real.
+
+---
+
+Concept 4 — Moving Averages (only two)
+
+• 50 DMA  -> average price of last 50 days
+• 200 DMA -> average price of last 200 days
+
+Price above 200 DMA -> long-term uptrend
+Price below 200 DMA -> long-term downtrend
+
+Crossovers:
+  • Price crosses above 50 DMA -> short-term momentum positive
+  • Price crosses below 50 DMA -> short-term momentum negative
+
+Patterns:
+  • Golden Cross -> 50 DMA crosses above 200 DMA (bullish)
+  • Death Cross  -> 50 DMA crosses below 200 DMA (bearish)
+
+On TradingView — add these two indicators. Takes 30 seconds. Instantly tells you the trend context.
+
+---
+
+----------------------------------------------------------------------
+PHASE 3 — CATALYST CALENDAR SYSTEM (Ongoing)
+----------------------------------------------------------------------
+
+This is the heart of event-driven trading. Every week maintain a calendar of upcoming events.
+
+---
+
+Weekly routine (every Sunday ~30 minutes)
+
+**Every Sunday — 30 minutes:**
+
+Step 1 -> Trendlyne -> Earnings Calendar
+          Note results dates for watchlist stocks (next 2 weeks)
+
+Step 2 -> RBI website
+          Note monetary policy meeting dates
+
+Step 3 -> NSE announcements
+          Board meetings? regulatory decisions? disclosures?
+
+Step 4 -> Global calendar
+          Fed meeting, US jobs (first Friday), India inflation
+
+Example calendar:
+
+  WEEK OF MARCH 10–14
+    Mon Mar 10 -> TCS board meeting (dividend possible)
+    Wed Mar 12 -> US CPI inflation (market sentiment)
+    Thu Mar 13 -> HCL Tech results (after market)
+    Fri Mar 14 -> Dr Reddy's FDA decision expected
+                 RBI credit policy statement
+
+This calendar tells you exactly where opportunities may arise each week.
+
+---
+
+----------------------------------------------------------------------
+PHASE 4 — 5 TRADE SETUPS TO FOCUS ON
+----------------------------------------------------------------------
+
+Each setup has a clear entry trigger, target, and stop loss.
+
+---
+
+Setup 1 — Pre-Earnings Trade
+
+**Logic:** Stock often moves before results as anticipation builds. If you expect strong results, buy 2-3 days before and sell on result day.
+
+Process:
+  Day -7:
+    • Check last 4 quarters trend
+    • Check estimates (Trendlyne)
+    • Check management commentary
+    • Check sector trend
+
+  Day -3:
+    • If everything positive -> buy 50% of planned position
+    • Stop loss: 5% below entry
+
+  Result day:
+    • Beat estimates -> sell 50–75% into strength
+    • In-line       -> hold and observe next-day reaction
+    • Miss          -> exit fully
+
+Targets:
+  • Target    : 8–12%
+  • Stop loss : 5% below entry
+  • Time      : 3–7 days
+
+**Example using TCS:**
+```
+TCS results expected March 13
+Current price March 10 = ₹2,613
+Entry = ₹2,613
+Stop loss = ₹2,482 (5% below)
+Target = ₹2,874 (10% above) if results strong
+```
+
+---
+
+Setup 2 — Post-Earnings Reaction Trade
+
+**Logic:** Strong results announced after hours. Stock will gap up next morning. Buy at open and ride the momentum.
+
+```
+PROCESS:
+
+Evening — results announced:
+→ Revenue beat? ✅
+→ Net profit beat? ✅
+→ Management guidance positive? ✅
+→ All three yes → Plan to buy at market open tomorrow
+
+Next morning:
+→ Stock gaps up 3-5% at open
+→ Wait 15 minutes after market opens (let initial volatility settle)
+→ If stock holds the gap (doesn't fall back down) → BUY
+→ If stock gaps up then immediately starts falling → SKIP this trade
+
+Target: Additional 5-8% from your entry
+Stop loss: Below the gap-up open level
+Time frame: 1-5 days
+```
+
+**Why wait 15 minutes?**
+At market open, retail panic buyers push price up. In 15 minutes this settles. If stock holds high after 15 minutes — the move is genuine. If it falls back — smart money is selling into retail excitement.
+
+---
+
+### Setup 3 — News Catalyst Trade (FDA/Deal/Regulatory)
+
+**Logic:** A specific news event with predictable directional impact.
+
+```
+PHARMA — FDA Approval:
+→ Stock jumps 15-30% same day
+→ If you can buy before announcement → huge gain
+→ If buying after announcement → buy only if:
+  a) Move seems sustainable (not just spike and fall)
+  b) This is first generic approval (180 day exclusivity)
+  c) Volume is very high (confirming genuine interest)
+
+IT — Large Deal Win:
+→ Stock up 3-8% on announcement
+→ Buy on announcement day
+→ Target 5-8% over next 1 week
+→ Stop loss if stock falls back to pre-announcement level
+
+AUTO — Monthly Sales Data:
+→ Every 1st of month, auto companies release monthly sales
+→ If sales numbers strong → buy on that day
+→ Quick 3-5% trade over 2-3 days
+```
+
+---
+
+### Setup 4 — Macro Event Trade
+
+**Logic:** RBI rate cut or budget announcement benefits specific sectors predictably.
+
+```
+RBI RATE CUT → Buy Banking + NBFC + Real Estate stocks
+               1-2 days before expected cut announcement
+               Exit within 1 week of announcement
+
+BUDGET INFRA BOOST → Buy Cement + Steel + L&T
+                     Leaked in pre-budget Economic Survey
+                     Exit on budget day or day after
+
+US FED RATE CUT → Buy IT stocks (Infosys, TCS, HCL Tech)
+                  US economy improves → more IT spending
+                  Medium term play (2-4 weeks)
+```
+
+---
+
+### Setup 5 — Oversold Bounce Trade
+
+**Logic:** A fundamentally good stock falls 15-25% due to temporary bad news or market panic. Buy the overreaction, sell the recovery.
+
+```
+CRITERIA FOR THIS TRADE:
+→ Stock must be fundamentally strong (from your watchlist)
+→ Fall must be due to temporary issue not permanent damage
+→ Stock must be near strong support level
+→ RSI (momentum indicator) below 30 = oversold
+
+EXAMPLE:
+TCS falls from ₹2,800 to ₹2,200 because
+US client cut one quarter's spending
+→ This is temporary, not permanent business damage
+→ RSI falls to 25 (deeply oversold)
+→ Stock at strong support ₹2,200
+→ BUY here
+
+Target: ₹2,500-2,600 (recovery to mean)
+Stop loss: ₹2,050 (below support)
+Time frame: 2-6 weeks
+```
+
+**Most important question before this trade:**
+Is the fall due to **temporary issue** or **permanent damage?**
+
+```
+TEMPORARY (good to buy):        PERMANENT (avoid):
+One bad quarter                 Business model destroyed
+Market-wide panic sell-off      Loss of major client forever
+Commodity price spike           Regulatory ban on business
+Global recession fears          Accounting fraud discovered
+```
+
+---
+
+----------------------------------------------------------------------
+PHASE 5 — TRADE MANAGEMENT RULES (Non-negotiable)
+----------------------------------------------------------------------
+
+These rules are non-negotiable. Most traders lose money not because of bad stock picking but because of bad trade management.
+
+---
+
+Rule 1 — Position sizing
+
+```
+Total trading capital          = ₹1,00,000 (example)
+Maximum per trade              = 10% = ₹10,000
+Maximum open trades at once    = 4-5
+
+Never put more than 10% in single trade.
+Even if you're 100% sure — markets surprise everyone.
+```
+
+---
+
+Rule 2 — Stop loss is mandatory
+
+```
+BEFORE entering any trade ask:
+"Where is my stop loss?"
+
+If you can't answer this → Don't enter the trade.
+
+Stop loss for short term trades = 5-7% below entry
+Stop loss for swing trades = 8-10% below entry
+
+WHEN STOP LOSS HITS → EXIT IMMEDIATELY.
+No hoping, no averaging down, no "it will come back."
+```
+
+The biggest losses in trading come from ignoring stop losses.
+
+---
+
+Rule 3 — Profit booking strategy
+
+```
+Don't try to catch the absolute top.
+
+STAGGERED EXIT:
+Hit 8% profit  → Sell 50% of position (secure partial profit)
+Hit 15% profit → Sell another 30%
+Let remaining 20% run with trailing stop loss
+
+This way:
+→ You always book some profit
+→ You don't miss bigger moves
+→ You never give back all gains
+```
+
+---
+
+Rule 4 — The 3-trade rule
+
+If you have 3 consecutive losing trades → **stop trading for 1 week.**
+
+This forces you to review what went wrong instead of revenge trading (making impulsive trades to recover losses quickly — the fastest way to blow up capital).
+
+---
+
+Rule 5 — Never average down on short-term trades
+
+```
+LONG TERM INVESTING → Averaging down is okay
+                      (buying more of a fundamentally 
+                      strong stock when it falls)
+
+SHORT TERM TRADING  → NEVER average down
+                      If stock hits stop loss → exit
+                      Don't buy more hoping it recovers
+```
+
+---
+
+Rule 6 — Keep a trade journal
+
+After every trade — write down:
+
+```
+Date         :
+Stock        :
+Entry price  :
+Exit price   :
+Profit/Loss  :
+Why I entered:
+What happened:
+What I learned:
+```
+
+After 20-30 trades, patterns emerge. You'll see which setups work for you and which don't. This is how you improve — not by reading more theory but by reviewing your own trades.
+
+---
+
+----------------------------------------------------------------------
+PHASE 6 — MONTHLY REVIEW PROCESS
+----------------------------------------------------------------------
+
+```
+EVERY MONTH END — 1 HOUR:
+
+1. Total trades this month      : ___
+2. Winning trades               : ___
+3. Losing trades                : ___
+4. Win rate %                   : ___  (target 50-60%)
+5. Average profit per win       : ___  (target 8-12%)
+6. Average loss per loss        : ___  (target 5-7%)
+7. Net P&L for the month        : ___
+8. Best trade and why           : ___
+9. Worst trade and why          : ___
+10. What to do differently      : ___
+```
+
+**The key ratio:**
+```
+Risk-Reward Ratio = Average Profit / Average Loss
+
+Example:
+Average win  = 10%
+Average loss = 5%
+Risk-Reward  = 2:1
+
+With 2:1 risk reward:
+Even if you win only 40% of trades → you're profitable
+
+10 trades:
+4 winners × 10% = +40%
+6 losers  × 5%  = -30%
+Net = +10% profit with only 40% win rate ✅
+```
+
+This is why stop losses matter so much. They keep your losses small so your winners can outweigh them mathematically.
+
+---
+
+----------------------------------------------------------------------
+WEEK-BY-WEEK PLAN
+----------------------------------------------------------------------
+
+```
+WEEK 1:
+→ Open broker account (Zerodha recommended)
+→ Set up Trendlyne, TradingView, Moneycontrol
+→ Build 20-25 stock watchlist
+→ Study support/resistance on your watchlist stocks
+
+WEEK 2:
+→ Learn 4 chart concepts on TradingView (practice only)
+→ Build first catalyst calendar
+→ Paper trade (write down trades without real money)
+→ Track what would have happened
+
+WEEK 3-4:
+→ Continue paper trading
+→ Focus on Pre-Earnings setup (Setup 1) only
+→ Track 2-3 upcoming results from your watchlist
+→ See if your prediction was right
+
+MONTH 2:
+→ Start with real money — very small (₹5,000-10,000 only)
+→ Maximum 2 trades simultaneously
+→ Only Setup 1 and Setup 2 (earnings based)
+→ Strict stop losses — no exceptions
+
+MONTH 3:
+→ Add Setup 3 (news catalyst)
+→ Increase position size gradually only if profitable
+→ Maintain trade journal religiously
+
+MONTH 4-6:
+→ All 5 setups active
+→ Full capital deployment (within position sizing rules)
+→ Monthly review every month end
+→ Refine what works for you specifically
+```
+
+---
+
+----------------------------------------------------------------------
+QUICK REFERENCE CARD
+----------------------------------------------------------------------
+
+```
+BEFORE EVERY TRADE ASK:
+1. What is my entry trigger?
+2. Where is my stop loss?
+3. What is my target?
+4. What is my position size?
+5. Why will this trade work?
+6. What would prove me wrong?
+
+GOLDEN RULES:
+→ Max 10% capital per trade
+→ Stop loss mandatory always
+→ Book partial profits at 8%
+→ 3 consecutive losses = 1 week break
+→ Never average down on short term trades
+→ Trade journal after every trade
+→ Weekly calendar every Sunday
+
+BEST SETUPS IN ORDER OF RELIABILITY:
+1. Post earnings reaction (most reliable)
+2. Pre earnings anticipation
+3. Oversold bounce on strong stock
+4. Macro event sector play
+5. FDA/Deal news catalyst
+```
+
+---
+
+----------------------------------------------------------------------
+ONE FINAL HONEST POINT
+----------------------------------------------------------------------
+
+Short term trading looks easy from outside. In reality:
+
+```
+70% of retail traders lose money in first year
+20% break even
+10% are consistently profitable
+
+The 10% who succeed:
+→ Treat it like a business not a game
+→ Follow rules even when emotions say otherwise
+→ Review and improve constantly
+→ Never risk money they can't afford to lose
+→ Start small, scale only after proving profitability
+```
+
+Start with paper trading for at least 4 weeks. Prove the system works before risking real money. The market will always be there — there's no rush to jump in before you're ready.

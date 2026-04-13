@@ -1,0 +1,163 @@
+
+█████████████████████████████████████████████████████████████████
+  🇮🇳  INDIAN STOCK ANALYZER
+  Income Statement | Key Ratios | Cash Flow | Balance Sheet
+█████████████████████████████████████████████████████████████████
+
+  📁 Log folder : runs
+  📝 Output log : 03mar_01-07am.txt
+
+  TICKER FORMAT:
+  ┌─────────────────┬─────────────────────┐
+  │ Company         │ Ticker Symbol       │
+  ├─────────────────┼─────────────────────┤
+  │ HUL             │ HINDUNILVR.NS       │
+  │ TCS             │ TCS.NS              │
+  │ Sun Pharma      │ SUNPHARMA.NS        │
+  │ Infosys         │ INFY.NS             │
+  │ HDFC Bank       │ HDFCBANK.NS         │
+  │ Reliance        │ RELIANCE.NS         │
+  │ Asian Paints    │ ASIANPAINT.NS       │
+  │ Maruti Suzuki   │ MARUTI.NS           │
+  │ Bajaj Finance   │ BAJFINANCE.NS       │
+  │ Wipro           │ WIPRO.NS            │
+  └─────────────────┴─────────────────────┘
+    
+─────────────────────────────────────────────────────────────────
+  Enter ticker symbol(s) (comma-separated) or 'quit' to exit: 
+█████████████████████████████████████████████████████████████████
+  FETCHING DATA FOR: TCS.NS
+█████████████████████████████████████████████████████████████████
+  Please wait...
+
+  ✅ Data fetched successfully!
+  Company  : Tata Consultancy Services Limited
+  Sector   : Technology
+  Industry : Information Technology Services
+  Exchange : NSI
+
+═════════════════════════════════════════════════════════════════
+  📊 CURRENT MARKET SNAPSHOT
+═════════════════════════════════════════════════════════════════
+--------------  ----------------------------
+Current Price                        ₹2613.5
+Previous Close                       ₹2637.4
+52 Week High    ₹3710.0  (-29.56% from High)
+52 Week Low       ₹2561.3  (+2.04% from Low)
+Market Cap                     ₹945587.17 Cr
+Currency                                 INR
+--------------  ----------------------------
+
+═════════════════════════════════════════════════════════════════
+  🔗 USEFUL LINKS
+═════════════════════════════════════════════════════════════════
+-------------  ------------------------------------------------------------------------
+Yahoo Finance  https://finance.yahoo.com/quote/TCS.NS
+Screener.in    https://www.screener.in/company/TCS/
+Moneycontrol   https://www.moneycontrol.com/india/stockpricequote/search?search_str=TCS
+NSE (search)   https://www.nseindia.com/search?q=TCS
+-------------  ------------------------------------------------------------------------
+
+═════════════════════════════════════════════════════════════════
+  📐 KEY RATIOS
+═════════════════════════════════════════════════════════════════
+------------------------  --------
+─── VALUATION ───
+P/E Ratio (Trailing)        19.82x
+P/E Ratio (Forward)         17.01x
+P/E Ratio (Basic)           19.47x
+P/B Ratio                    8.33x
+P/S Ratio                    3.63x
+PEG Ratio                      N/A
+EPS (Trailing)             ₹131.87
+EPS (Forward)              ₹153.67
+EPS (Basic)                 ₹134.2
+─── PROFITABILITY ───
+ROE (Return on Equity)      42.63%
+ROA (Return on Assets)      22.51%
+─── DEBT & LIQUIDITY ───
+Debt/Equity Ratio            0.09x
+Current Ratio                2.52x
+Quick Ratio                   2.3x
+─── DIVIDEND & RISK ───
+Dividend Yield               2.39%
+Beta                      ₹0.25 Cr
+------------------------  --------
+
+  💡 QUICK INTERPRETATION:
+  P/E 19.818762x → Fair valuation range
+  ROE 42.63% → Excellent capital efficiency ✅
+  D/E 0.09x → Very low debt, financially safe ✅
+
+═════════════════════════════════════════════════════════════════
+  📈 INCOME STATEMENT — Last 5 Years (₹ Crores)
+═════════════════════════════════════════════════════════════════
+Metric            2025      2024      2023      2022
+----------------  --------  --------  --------  --------
+Total Revenue     ₹255,324  ₹240,893  ₹225,458  ₹191,754
+Cost Of Revenue   ₹145,683  ₹132,871  ₹119,759  ₹100,267
+Gross Profit      ₹109,641  ₹108,022  ₹105,699  ₹91,487
+Operating Income  ₹62,293   ₹59,425   ₹54,377   ₹48,588
+EBITDA            ₹71,369   ₹67,760   ₹62,708   ₹57,075
+Pretax Income     ₹65,331   ₹61,997   ₹56,907   ₹51,687
+Tax Provision     ₹16,534   ₹15,898   ₹14,604   ₹13,238
+Net Income        ₹48,553   ₹45,908   ₹42,147   ₹38,327
+
+  📊 MARGIN ANALYSIS:
+Metric              2025    2024    2023    2022
+------------------  ------  ------  ------  ------
+Gross Margin %      42.94%  44.84%  46.88%  47.71%
+Operating Margin %  24.4%   24.67%  24.12%  25.34%
+Net Margin %        19.02%  19.06%  18.69%  19.99%
+
+═════════════════════════════════════════════════════════════════
+  💰 CASH FLOW STATEMENT — Last 5 Years (₹ Crores)
+═════════════════════════════════════════════════════════════════
+Metric               2025      2024      2023      2022      2021
+-------------------  --------  --------  --------  --------  ------
+Operating Cash Flow  ₹48,908   ₹44,338   ₹41,965   ₹39,949   N/A
+Capital Expenditure  ₹-3,937   ₹-2,674   ₹-3,100   ₹-2,995   N/A
+Investing Cash Flow  ₹-2,318   ₹6,026    ₹39       ₹-897     N/A
+Financing Cash Flow  ₹-47,438  ₹-48,536  ₹-47,878  ₹-33,581  N/A
+Free Cash Flow       ₹44,971   ₹41,664   ₹38,865   ₹36,954   N/A
+
+  💡 FCF Yield (Latest Year) = 4.76%
+  Moderate FCF yield — acceptable ✅
+
+═════════════════════════════════════════════════════════════════
+  🏦 BALANCE SHEET SNAPSHOT (₹ Crores)
+═════════════════════════════════════════════════════════════════
+Metric                                   2025      2024      2023      2022      2021
+---------------------------------------  --------  --------  --------  --------  ------
+Total Assets                             ₹159,629  ₹146,449  ₹143,651  ₹141,514  N/A
+Total Liabilities Net Minority Interest  N/A       N/A       N/A       N/A       N/A
+Stockholders Equity                      ₹94,756   ₹90,489   ₹90,424   ₹89,139   N/A
+Total Debt                               ₹9,392    ₹8,021    ₹7,688    ₹7,818    N/A
+Cash And Cash Equivalents                N/A       N/A       N/A       N/A       N/A
+
+═════════════════════════════════════════════════════════════════
+  🎯 OVERALL HEALTH SCORECARD
+═════════════════════════════════════════════════════════════════
+---------------  --------------------------------
+✅ ROE            42.63% — Good efficiency
+✅ D/E Ratio      0.09x — Safe debt level
+✅ P/E Ratio      19.8x — Positive earnings
+✅ P/B Ratio      8.33x — Trading above book value
+✅ Current Ratio  2.52x — Good liquidity
+---------------  --------------------------------
+
+  SCORE: 5/5 parameters healthy
+  🏆 Excellent — Strong across all checked parameters!
+
+═════════════════════════════════════════════════════════════════
+  📰 LATEST NEWS
+═════════════════════════════════════════════════════════════════
+  ⚠️  No usable news available from Yahoo for this ticker.
+  ℹ️  Tip: use the links above (Screener/Moneycontrol/NSE) for latest updates.
+
+█████████████████████████████████████████████████████████████████
+  ANALYSIS COMPLETE — Tata Consultancy Services Limited
+█████████████████████████████████████████████████████████████████
+
+
+  Analyze another stock? (y/n): 

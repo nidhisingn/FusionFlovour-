@@ -1,0 +1,27 @@
+
+█████████████████████████████████████████████████████████████████
+  🇮🇳  INDIAN STOCK ANALYZER
+  Income Statement | Key Ratios | Cash Flow | Balance Sheet
+█████████████████████████████████████████████████████████████████
+
+  📁 Log folder : runs
+  📝 Output log : 03mar_01-11am.txt
+
+  TICKER FORMAT:
+  ┌─────────────────┬─────────────────────┐
+  │ Company         │ Ticker Symbol       │
+  ├─────────────────┼─────────────────────┤
+  │ HUL             │ HINDUNILVR.NS       │
+  │ TCS             │ TCS.NS              │
+  │ Sun Pharma      │ SUNPHARMA.NS        │
+  │ Infosys         │ INFY.NS             │
+  │ HDFC Bank       │ HDFCBANK.NS         │
+  │ Reliance        │ RELIANCE.NS         │
+  │ Asian Paints    │ ASIANPAINT.NS       │
+  │ Maruti Suzuki   │ MARUTI.NS           │
+  │ Bajaj Finance   │ BAJFINANCE.NS       │
+  │ Wipro           │ WIPRO.NS            │
+  └─────────────────┴─────────────────────┘
+    
+─────────────────────────────────────────────────────────────────
+  Enter ticker symbol(s) (comma-separated) or 'quit' to exit: 

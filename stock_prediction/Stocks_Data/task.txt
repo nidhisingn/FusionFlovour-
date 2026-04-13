@@ -1,0 +1,622 @@
+======================================================================
+                 30-DAY TASK PLAN — COMPLETE CHECKLIST
+======================================================================
+
+What this is:
+  A structured roadmap to go from fundamentals -> screening -> qualitative
+  research -> chart reading -> event-driven practice -> portfolio building.
+
+
+----------------------------------------------------------------------
+MODULE 1 — FINANCIAL CONCEPTS (Theory done ✅)
+----------------------------------------------------------------------
+
+These you already understand. Tasks are to **reinforce with real data.**
+
+---
+
+Task 1.1 — Income Statement Reading
+
+Where:
+  Screener.in -> Search HUL -> Profit & Loss
+
+Write down (2021–2025):
+  • Total Revenue
+  • Gross Profit
+  • Operating Profit
+  • Net Profit
+
+Calculate:
+  • Gross Margin % (each year)
+  • Operating Margin % (each year)
+  • Net Margin % (each year)
+
+Observe:
+  • Are margins expanding or contracting?
+  • Which year had the biggest drop? Why?
+  • Is revenue growth translating into profit growth?
+
+Deadline  : Day 1
+Difficulty: Easy ⭐
+
+---
+
+Task 1.2 — Cash Flow vs Profit Gap Analysis
+
+Where:
+  Screener.in -> HUL -> Cash Flow
+
+FIND:
+→ Operating Cash Flow (2021-2025)
+→ Capital Expenditure (2021-2025)
+→ Free Cash Flow (2021-2025)
+→ Net Profit (2021-2025)
+
+CALCULATE:
+→ FCF as % of Net Profit each year
+   Formula: FCF / Net Profit × 100
+
+HEALTHY COMPANY: FCF should be 70-100% of Net Profit
+
+OBSERVE:
+→ Is FCF consistently close to Net Profit?
+→ Any year where gap is very large? Find out why.
+→ Is Capex increasing (expansion) or decreasing (maturity)?
+
+Deadline  : Day 1–2
+Difficulty: Easy ⭐
+
+---
+
+Task 1.3 — Equity and ROE Tracker
+
+Where:
+  Screener.in -> HUL -> Balance Sheet
+
+FILL THIS TABLE:
+Year  | Net Profit | Dividend Paid | Retained | Equity
+2021  |            |               |          |
+2022  |            |               |          |
+2023  |            |               |          |
+2024  |            |               |          |
+2025  |            |               |          |
+
+OBSERVE:
+→ Is equity growing every year?
+→ How much profit is retained vs paid as dividend?
+→ Calculate ROE = Net Profit / Equity × 100 for each year
+→ Is ROE stable, improving, or declining?
+
+Deadline  : Day 2
+Difficulty: Medium ⭐⭐
+
+---
+
+----------------------------------------------------------------------
+MODULE 2 — STOCK ANALYSIS (Script already built ✅)
+----------------------------------------------------------------------
+
+---
+
+Task 2.1 — Run Script on 5 More Stocks
+
+You already ran:
+  • HUL, TCS, Sun Pharma
+
+NOW RUN ON:
+→ INFY.NS      (Infosys)
+→ HCLTECH.NS   (HCL Tech)
+→ NESTLEIND.NS (Nestle)
+→ BRITANNIA.NS (Britannia)
+→ DRREDDY.NS   (Dr Reddy's)
+
+FOR EACH STOCK NOTE DOWN:
+→ P/E Ratio — cheap or expensive vs sector?
+→ ROE — above or below 15%?
+→ D/E — safe or risky?
+→ Revenue trend — growing consistently?
+→ Net Margin trend — expanding or contracting?
+→ FCF — positive and growing?
+→ 52W position — near high or low?
+
+Deadline  : Day 2–3
+Difficulty: Easy ⭐ (script does the work)
+
+---
+
+Task 2.2 — Sector Comparison Table
+
+After running script on all 8 stocks, fill this comparison table manually.
+
+IT SECTOR COMPARISON:
+Parameter      | TCS  | Infosys | HCL Tech
+Revenue Growth |      |         |
+Net Margin     |      |         |
+ROE            |      |         |
+D/E            |      |         |
+P/E            |      |         |
+FCF Growth     |      |         |
+52W Position   |      |         |
+RANK           |  ?   |    ?    |    ?
+
+FMCG SECTOR COMPARISON:
+Parameter      | HUL  | Nestle  | Britannia
+Revenue Growth |      |         |
+Net Margin     |      |         |
+ROE            |      |         |
+D/E            |      |         |
+P/E            |      |         |
+FCF Growth     |      |         |
+52W Position   |      |         |
+RANK           |  ?   |    ?    |    ?
+
+PHARMA COMPARISON:
+Parameter      | Sun Pharma | Dr Reddy's
+Revenue Growth |            |
+Net Margin     |            |
+ROE            |            |
+D/E            |            |
+P/E            |            |
+RANK           |     ?      |     ?
+
+AFTER FILLING:
+→ Who is the strongest in each sector?
+→ Who would you buy and why?
+→ Who would you avoid and why?
+
+Deadline  : Day 3–4
+Difficulty: Medium ⭐⭐
+
+---
+
+Task 2.3 — Valuation Exercise
+
+For your top pick from each sector:
+
+CALCULATE FAIR VALUE:
+Step 1: Note Forward EPS (from your script output)
+Step 2: Find historical average P/E
+        (Screener.in → Stock → PE ratio chart)
+Step 3: Fair Value = Forward EPS × Historical avg P/E
+Step 4: Compare to current price
+
+CALCULATE EXPECTED RETURN:
+→ Bull Case return (P/E expands)
+→ Base Case return (P/E stays same)
+→ Bear Case return (P/E contracts)
+
+DECIDE:
+→ Is current price attractive?
+→ What price would make it a strong buy?
+→ Set a price alert on Moneycontrol for that level
+
+Deadline  : Day 4–5
+Difficulty: Medium ⭐⭐
+
+---
+
+----------------------------------------------------------------------
+MODULE 3 — QUALITATIVE ANALYSIS
+----------------------------------------------------------------------
+
+---
+
+Task 3.1 — Read One Annual Report
+
+Pick:
+  • TCS (cleanest, easiest to read)
+
+DOWNLOAD:
+→ Go to tcs.com → Investor Relations → Annual Reports
+→ Download 2024 Annual Report (PDF)
+
+READ ONLY THESE SECTIONS:
+→ Letter to Shareholders (CEO letter) — 3-4 pages
+→ Management Discussion & Analysis — 15-20 pages
+→ Risk Factors section — 5-10 pages
+
+SKIP: Financials, legal boilerplate, corporate governance
+
+WHILE READING NOTE DOWN:
+→ What does management say about growth drivers?
+→ What risks do they acknowledge?
+→ What is their strategy for next 3 years?
+→ Any mention of AI impact on their business?
+→ Did what they said in 2023 report actually happen by 2024?
+
+Deadline  : Day 5–7
+Difficulty: Medium ⭐⭐
+Time      : ~2–3 hours
+
+---
+
+Task 3.2 — Concall Transcript Analysis
+
+Where:
+  Trendlyne -> Search TCS -> Concall Transcripts
+  Read latest quarterly concall
+
+WHILE READING HIGHLIGHT:
+→ What questions did analysts ask?
+→ How confidently did management answer?
+→ Any mention of deal pipeline, client additions?
+→ Any cautious language? ("we expect", "we hope", "challenging")
+→ Any definitive guidance? ("we will", "we are confident")
+→ What were the 3 biggest concerns raised by analysts?
+
+COMPARE:
+→ Does management tone match the numbers you saw in script?
+→ Are they explaining the margin compression you noticed?
+
+Deadline  : Day 6–7
+Difficulty: Medium ⭐⭐
+Time      : ~1–2 hours
+
+---
+
+Task 3.3 — Moat Identification Exercise
+
+For each of your 8 stocks answer:
+
+1. What is this company's moat?
+   (Brand / Switching Cost / Cost Advantage / 
+    Network Effect / Regulatory)
+
+2. How strong is this moat on scale of 1-5?
+
+3. What could destroy this moat in next 5 years?
+
+4. Is the moat getting stronger or weaker?
+
+EXAMPLE FORMAT:
+TCS:
+→ Moat type: Switching Cost
+→ Strength: 5/5
+→ Potential destroyer: AI replacing IT services
+→ Trend: Stable but AI is a long term risk
+
+HUL:
+→ Moat type: Brand + Distribution
+→ Strength: 4/5
+→ Potential destroyer: Reliance/D-Mart private labels
+→ Trend: Slightly weakening in economy segment
+
+DO THIS FOR ALL 8 STOCKS.
+
+Deadline  : Day 7–8
+Difficulty: Hard ⭐⭐⭐ (requires thinking, not just data)
+
+---
+
+Task 3.4 — Management Quality Check
+
+For TCS and Sun Pharma:
+
+CHECK PROMOTER DATA on screener.in:
+→ Promoter holding % — stable, increasing, decreasing?
+→ Pledged shares % — should be near zero
+→ Has holding changed significantly in last 2 years?
+
+READ LAST 3 YEARS ANNUAL REPORT HIGHLIGHTS:
+→ What did management promise in 2022 report?
+→ Did they deliver by 2023?
+→ What did they promise in 2023?
+→ Did they deliver by 2024?
+
+CHECK FOR RED FLAGS:
+→ Any auditor change in last 5 years?
+→ Any related party transaction controversies?
+→ Any news of management fraud or investigation?
+   (Google: "TCS management controversy" / 
+            "Sun Pharma management issue")
+
+VERDICT: Rate management 1-5 for each company
+
+Deadline  : Day 8–9
+Difficulty: Hard ⭐⭐⭐
+
+---
+
+----------------------------------------------------------------------
+MODULE 4 — CHART READING
+----------------------------------------------------------------------
+
+---
+
+Task 4.1 — TradingView Setup
+
+Where:
+  TradingView.com (free account)
+  Search: HINDUNILVR (NSE)
+
+ADD THESE INDICATORS:
+→ 50 Day Moving Average (MA, length 50, daily)
+→ 200 Day Moving Average (MA, length 200, daily)
+→ Volume (already shown at bottom by default)
+→ RSI (Relative Strength Index, length 14)
+
+OBSERVE AND NOTE:
+→ Is price above or below 200 DMA?
+→ Is 50 DMA above or below 200 DMA?
+  (above = Golden Cross, below = Death Cross)
+→ What is RSI reading?
+  Below 30 = oversold (possible buy)
+  Above 70 = overbought (possible sell)
+→ Identify 2 support levels below current price
+→ Identify 2 resistance levels above current price
+
+DO SAME FOR: TCS and Sun Pharma
+
+Deadline  : Day 8–9
+Difficulty: Easy ⭐ (visual observation)
+
+---
+
+Task 4.2 — Historical News vs Price Study
+
+Pick:
+  Sun Pharma on TradingView
+
+LOOK AT LAST 2 YEARS PRICE CHART
+
+FIND 3 MAJOR PRICE MOVES (big up or down days):
+For each move find out what news caused it.
+(Google: "Sun Pharma stock fall [date]"
+         "Sun Pharma stock rise [date]")
+
+FILL:
+Date | Price Move | News Cause | Recovery time
+     |            |            |
+     |            |            |
+     |            |            |
+
+OBSERVE:
+→ How long did it take to recover from bad news?
+→ Was the fall permanent or temporary?
+→ Was it FDA related, earnings related, or market-wide?
+
+THIS TEACHES YOU:
+How this specific stock reacts to different news types.
+Critical knowledge before trading it.
+
+Deadline  : Day 9–10
+Difficulty: Medium ⭐⭐
+
+---
+
+----------------------------------------------------------------------
+MODULE 5 — EVENT-DRIVEN TRADING SETUP
+----------------------------------------------------------------------
+
+---
+
+Task 5.1 — Build Catalyst Calendar
+
+Where:
+  Trendlyne -> Earnings Calendar
+
+FIND RESULT DATES FOR ALL 8 STOCKS:
+Stock          | Result Date | Analyst Estimate EPS
+TCS            |             |
+Infosys        |             |
+HCL Tech       |             |
+HUL            |             |
+Nestle         |             |
+Britannia      |             |
+Sun Pharma     |             |
+Dr Reddy's     |             |
+
+ALSO NOTE:
+→ Next RBI policy meeting date
+→ Next US Fed meeting date
+→ Any pending FDA decisions for pharma stocks
+
+SAVE THIS AS YOUR TRADING CALENDAR.
+UPDATE IT EVERY SUNDAY.
+
+Deadline  : Day 10
+Difficulty: Easy ⭐
+
+---
+
+Task 5.2 — Paper Trade for 30 Days
+
+THIS IS THE MOST IMPORTANT TASK.
+
+RULES:
+→ Starting capital: ₹1,00,000 (imaginary)
+→ Max per trade: ₹10,000 (10%)
+→ Max open trades: 4 at once
+→ Mandatory stop loss on every trade
+→ Use only setups we discussed
+
+FOR EACH PAPER TRADE WRITE IN A NOTEBOOK:
+Date          :
+Stock         :
+Entry price   :
+Stop loss     :
+Target price  :
+Setup used    : (Pre-earnings / Post-earnings / 
+                 News catalyst / Oversold bounce / Macro)
+Reason        :
+Exit date     :
+Exit price    :
+Profit/Loss % :
+What happened :
+Lesson learned:
+
+DO MINIMUM 10 PAPER TRADES BEFORE
+TOUCHING REAL MONEY.
+
+Deadline  : 30 days
+Difficulty: Medium ⭐⭐
+
+---
+
+Task 5.3 — Earnings Reaction Study
+
+Historical exercise:
+  Study last 4 quarterly results for TCS (TradingView)
+
+FOR EACH QUARTER NOTE:
+Quarter | Result vs Estimate | Stock reaction next day
+Q1 2024 |                   |
+Q2 2024 |                   |
+Q3 2024 |                   |
+Q4 2024 |                   |
+
+PATTERN RECOGNITION:
+→ Does TCS typically go up or down after results?
+→ How many % does it usually move?
+→ Does it hold the move or reverse?
+→ Does good guidance matter more than good results?
+
+DO SAME FOR SUN PHARMA.
+
+THIS TELLS YOU: The typical behavior of each stock
+around results — critical for pre/post earnings trades.
+
+Deadline  : Day 12–14
+Difficulty: Medium ⭐⭐
+
+---
+
+----------------------------------------------------------------------
+MODULE 6 — PORTFOLIO CONSTRUCTION
+----------------------------------------------------------------------
+
+---
+
+Task 6.1 — Build Your First Paper Portfolio
+
+After completing above tasks:
+
+CONSTRUCT A ₹1,00,000 PAPER PORTFOLIO:
+
+Rules:
+→ Minimum 5 stocks, maximum 8
+→ At least 3 different sectors
+→ No single stock more than 20%
+→ Keep 15-20% as cash
+
+YOUR PORTFOLIO TABLE:
+Stock | Sector | Allocation | Entry Price | Reason for buying
+      |        |     %      |             |
+      |        |     %      |             |
+      |        |     %      |             |
+      |        |             |             |
+Cash  |   -    |    15%     |      -      | Opportunities
+
+FOR EACH STOCK SET:
+→ Target price (when to take profit)
+→ Stop loss (when to exit if wrong)
+→ Thesis (why you bought in 2-3 sentences)
+
+TRACK THIS PORTFOLIO FOR 3 MONTHS.
+REVIEW EVERY MONTH END.
+
+Deadline  : Day 14–15
+Difficulty: Hard ⭐⭐⭐
+
+---
+
+Task 6.2 — Monthly Portfolio Review Template
+
+Create this review every month:
+
+MONTH: ___________
+
+PORTFOLIO PERFORMANCE:
+Starting value  : ₹1,00,000
+Ending value    : ___________
+Monthly return  : ___________%
+Nifty return    : ___________%  (benchmark comparison)
+Outperformed?   : YES / NO
+
+STOCK REVIEW:
+Stock | Entry | Current | Return | Thesis intact?
+      |       |         |        | YES/NO
+      |       |         |        | YES/NO
+
+TRADES THIS MONTH:
+Total trades    : ___
+Winning trades  : ___
+Losing trades   : ___
+Win rate        : ___%
+
+LESSONS:
+Best decision this month  :
+Worst decision this month :
+What to do differently    :
+
+Deadline  : End of every month
+Difficulty: Easy ⭐
+
+---
+
+----------------------------------------------------------------------
+TASK CALENDAR — DAY BY DAY
+----------------------------------------------------------------------
+
+```
+DAY 1      → Task 1.1 + 1.2 (Income statement + FCF)
+DAY 2      → Task 1.3 + 2.1 (Equity/ROE + Run script)
+DAY 3      → Task 2.1 continued (finish all 8 stocks)
+DAY 4      → Task 2.2 (Sector comparison table)
+DAY 5      → Task 2.3 (Valuation exercise)
+DAY 6      → Task 3.1 (Read TCS annual report)
+DAY 7      → Task 3.1 continued + Task 3.2 (Concall)
+DAY 8      → Task 3.3 (Moat identification)
+DAY 9      → Task 3.4 + 4.1 (Management + Charts)
+DAY 10     → Task 4.2 + 5.1 (News-price study + Calendar)
+DAY 11-14  → Task 5.2 start (Paper trading begins)
+DAY 14-15  → Task 6.1 (Build paper portfolio)
+DAY 30     → Task 5.3 + First monthly review
+
+ONGOING:
+Every Sunday    → Update catalyst calendar (30 min)
+Every quarter   → Read concall transcript of holdings
+Every month end → Portfolio review
+```
+
+---
+
+----------------------------------------------------------------------
+DIFFICULTY SUMMARY
+----------------------------------------------------------------------
+
+```
+EASY ⭐        → Tasks 1.1, 1.2, 2.1, 4.1, 5.1, 6.2
+                 Just data collection, tool setup
+
+MEDIUM ⭐⭐     → Tasks 1.3, 2.2, 2.3, 3.2, 4.2, 5.2, 5.3
+                 Requires analysis and interpretation
+
+HARD ⭐⭐⭐      → Tasks 3.1, 3.3, 3.4, 6.1
+                 Requires deep thinking and judgment
+```
+
+---
+
+----------------------------------------------------------------------
+THE MOST IMPORTANT TASK OF ALL
+----------------------------------------------------------------------
+
+```
+After all 6 modules are done:
+
+FINAL TASK → Ask yourself honestly:
+
+"Do I understand WHY I would buy each stock
+ in my portfolio well enough to explain it
+ to someone in 2 minutes?"
+
+If YES → You're ready to invest real money.
+If NO  → Go back and fill the gaps.
+
+Real conviction comes from real understanding.
+Not tips. Not predictions. Not hopes.
+Understanding.
+```
+
+Complete these tasks over 30 days and you'll have more practical knowledge than most people who've been investing for years without a structured approach.

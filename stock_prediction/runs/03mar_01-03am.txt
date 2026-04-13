@@ -1,0 +1,342 @@
+
+█████████████████████████████████████████████████████████████████
+  🇮🇳  INDIAN STOCK ANALYZER
+  Income Statement | Key Ratios | Cash Flow | Balance Sheet
+█████████████████████████████████████████████████████████████████
+
+  📁 Log folder : runs
+  📝 Output log : 03mar_01-03am.txt
+
+  TICKER FORMAT:
+  ┌─────────────────┬─────────────────────┐
+  │ Company         │ Ticker Symbol       │
+  ├─────────────────┼─────────────────────┤
+  │ HUL             │ HINDUNILVR.NS       │
+  │ TCS             │ TCS.NS              │
+  │ Sun Pharma      │ SUNPHARMA.NS        │
+  │ Infosys         │ INFY.NS             │
+  │ HDFC Bank       │ HDFCBANK.NS         │
+  │ Reliance        │ RELIANCE.NS         │
+  │ Asian Paints    │ ASIANPAINT.NS       │
+  │ Maruti Suzuki   │ MARUTI.NS           │
+  │ Bajaj Finance   │ BAJFINANCE.NS       │
+  │ Wipro           │ WIPRO.NS            │
+  └─────────────────┴─────────────────────┘
+    
+─────────────────────────────────────────────────────────────────
+  Enter ticker symbol(s) (comma-separated) or 'quit' to exit: 
+█████████████████████████████████████████████████████████████████
+  FETCHING DATA FOR: HINDUNILVR.NS
+█████████████████████████████████████████████████████████████████
+  Please wait...
+
+  ✅ Data fetched successfully!
+  Company  : Hindustan Unilever Limited
+  Sector   : Consumer Defensive
+  Industry : Household & Personal Products
+  Exchange : NSI
+
+═════════════════════════════════════════════════════════════════
+  📊 CURRENT MARKET SNAPSHOT
+═════════════════════════════════════════════════════════════════
+--------------  ----------------------------
+Current Price                        ₹2320.6
+Previous Close                       ₹2338.1
+52 Week High    ₹2750.0  (-15.61% from High)
+52 Week Low       ₹2136.0  (+8.64% from Low)
+Market Cap                     ₹545325.37 Cr
+Currency                                 INR
+--------------  ----------------------------
+
+═════════════════════════════════════════════════════════════════
+  🔗 USEFUL LINKS
+═════════════════════════════════════════════════════════════════
+-------------  -------------------------------------------------------------------------------
+Yahoo Finance  https://finance.yahoo.com/quote/HINDUNILVR.NS
+Screener.in    https://www.screener.in/company/HINDUNILVR/
+Moneycontrol   https://www.moneycontrol.com/india/stockpricequote/search?search_str=HINDUNILVR
+NSE (search)   https://www.nseindia.com/search?q=HINDUNILVR
+-------------  -------------------------------------------------------------------------------
+
+═════════════════════════════════════════════════════════════════
+  📐 KEY RATIOS
+═════════════════════════════════════════════════════════════════
+------------------------  ---------
+─── VALUATION ───
+P/E Ratio (Trailing)         53.94x
+P/E Ratio (Forward)          47.12x
+P/E Ratio (Basic)             51.2x
+P/B Ratio                    11.19x
+P/S Ratio                     8.38x
+PEG Ratio                       N/A
+EPS (Trailing)               ₹43.02
+EPS (Forward)                ₹49.25
+EPS (Basic)                  ₹45.32
+─── PROFITABILITY ───
+ROE (Return on Equity)          N/A
+ROA (Return on Assets)          N/A
+─── DEBT & LIQUIDITY ───
+Debt/Equity Ratio             0.04x
+Current Ratio                   N/A
+Quick Ratio                     N/A
+─── DIVIDEND & RISK ───
+Dividend Yield                1.84%
+Beta                      ₹0.268 Cr
+------------------------  ---------
+
+  💡 QUICK INTERPRETATION:
+  P/E 53.942352x → Very expensive, growth must justify this
+  D/E 0.04x → Very low debt, financially safe ✅
+
+═════════════════════════════════════════════════════════════════
+  📈 INCOME STATEMENT — Last 5 Years (₹ Crores)
+═════════════════════════════════════════════════════════════════
+Metric            2025     2024     2023     2022     2021
+----------------  -------  -------  -------  -------  ------
+Total Revenue     ₹62,288  ₹60,966  ₹59,549  ₹51,548  N/A
+Cost Of Revenue   ₹31,859  ₹30,892  ₹32,719  ₹26,587  N/A
+Gross Profit      ₹30,429  ₹30,074  ₹26,830  ₹24,961  N/A
+Operating Income  ₹13,496  ₹13,447  ₹13,010  ₹11,766  N/A
+EBITDA            ₹16,173  ₹15,476  ₹14,610  ₹13,086  N/A
+Pretax Income     ₹14,415  ₹13,926  ₹13,344  ₹11,874  N/A
+Tax Provision     ₹3,744   ₹3,644   ₹3,201   ₹2,987   N/A
+Net Income        ₹10,649  ₹10,277  ₹10,120  ₹8,879   N/A
+
+  📊 MARGIN ANALYSIS:
+Metric              2025    2024    2023    2022    2021
+------------------  ------  ------  ------  ------  ------
+Gross Margin %      48.85%  49.33%  45.06%  48.42%  nan%
+Operating Margin %  21.67%  22.06%  21.85%  22.83%  nan%
+Net Margin %        17.1%   16.86%  16.99%  17.22%  nan%
+
+═════════════════════════════════════════════════════════════════
+  💰 CASH FLOW STATEMENT — Last 5 Years (₹ Crores)
+═════════════════════════════════════════════════════════════════
+Metric               2025      2024      2023     2022     2021
+-------------------  --------  --------  -------  -------  ------
+Operating Cash Flow  ₹11,886   ₹15,469   ₹9,991   ₹9,048   N/A
+Capital Expenditure  ₹-1,275   ₹-1,477   ₹-1,192  ₹-1,228  N/A
+Investing Cash Flow  ₹6,473    ₹-5,324   ₹-1,494  ₹-1,728  N/A
+Financing Cash Flow  ₹-13,101  ₹-10,034  ₹-8,953  ₹-8,015  N/A
+Free Cash Flow       ₹10,611   ₹13,992   ₹8,799   ₹7,820   N/A
+
+  💡 FCF Yield (Latest Year) = 1.95%
+  Low FCF yield — check if capex heavy phase or weak business ⚠️
+
+═════════════════════════════════════════════════════════════════
+  🏦 BALANCE SHEET SNAPSHOT (₹ Crores)
+═════════════════════════════════════════════════════════════════
+Metric                                   2025     2024     2023     2022
+---------------------------------------  -------  -------  -------  -------
+Total Assets                             ₹79,880  ₹78,499  ₹73,087  ₹70,517
+Total Liabilities Net Minority Interest  N/A      N/A      N/A      N/A
+Stockholders Equity                      ₹49,402  ₹51,218  ₹50,304  ₹49,061
+Total Debt                               ₹1,648   ₹1,484   ₹1,219   ₹1,043
+Cash And Cash Equivalents                N/A      N/A      N/A      N/A
+
+═════════════════════════════════════════════════════════════════
+  🎯 OVERALL HEALTH SCORECARD
+═════════════════════════════════════════════════════════════════
+-----------  ---------------------------------
+❌ ROE        N/A% — Below 15% threshold
+✅ D/E Ratio  0.04x — Safe debt level
+✅ P/E Ratio  53.9x — Positive earnings
+✅ P/B Ratio  11.19x — Trading above book value
+-----------  ---------------------------------
+
+  SCORE: 3/4 parameters healthy
+  👍 Good — Most parameters healthy, minor concerns
+
+═════════════════════════════════════════════════════════════════
+  📰 LATEST NEWS
+═════════════════════════════════════════════════════════════════
+
+  [1] No title
+      Publisher: Unknown  |  Time: N/A
+      Link     : 
+  ────────────────────────────────────────────────────────────
+
+  [2] No title
+      Publisher: Unknown  |  Time: N/A
+      Link     : 
+  ────────────────────────────────────────────────────────────
+
+  [3] No title
+      Publisher: Unknown  |  Time: N/A
+      Link     : 
+  ────────────────────────────────────────────────────────────
+
+  [4] No title
+      Publisher: Unknown  |  Time: N/A
+      Link     : 
+  ────────────────────────────────────────────────────────────
+
+  [5] No title
+      Publisher: Unknown  |  Time: N/A
+      Link     : 
+  ────────────────────────────────────────────────────────────
+
+█████████████████████████████████████████████████████████████████
+  ANALYSIS COMPLETE — Hindustan Unilever Limited
+█████████████████████████████████████████████████████████████████
+
+
+█████████████████████████████████████████████████████████████████
+  FETCHING DATA FOR: SUNPHARMA.NS
+█████████████████████████████████████████████████████████████████
+  Please wait...
+
+  ✅ Data fetched successfully!
+  Company  : Sun Pharmaceutical Industries Limited
+  Sector   : Healthcare
+  Industry : Drug Manufacturers - Specialty & Generic
+  Exchange : NSI
+
+═════════════════════════════════════════════════════════════════
+  📊 CURRENT MARKET SNAPSHOT
+═════════════════════════════════════════════════════════════════
+--------------  ---------------------------
+Current Price                       ₹1752.5
+Previous Close                      ₹1737.0
+52 Week High    ₹1851.2  (-5.33% from High)
+52 Week Low     ₹1548.0  (+13.21% from Low)
+Market Cap                    ₹420483.43 Cr
+Currency                                INR
+--------------  ---------------------------
+
+═════════════════════════════════════════════════════════════════
+  🔗 USEFUL LINKS
+═════════════════════════════════════════════════════════════════
+-------------  ------------------------------------------------------------------------------
+Yahoo Finance  https://finance.yahoo.com/quote/SUNPHARMA.NS
+Screener.in    https://www.screener.in/company/SUNPHARMA/
+Moneycontrol   https://www.moneycontrol.com/india/stockpricequote/search?search_str=SUNPHARMA
+NSE (search)   https://www.nseindia.com/search?q=SUNPHARMA
+-------------  ------------------------------------------------------------------------------
+
+═════════════════════════════════════════════════════════════════
+  📐 KEY RATIOS
+═════════════════════════════════════════════════════════════════
+------------------------  ---------
+─── VALUATION ───
+P/E Ratio (Trailing)         38.51x
+P/E Ratio (Forward)          30.84x
+P/E Ratio (Basic)            38.47x
+P/B Ratio                      5.4x
+P/S Ratio                      7.4x
+PEG Ratio                       N/A
+EPS (Trailing)               ₹45.51
+EPS (Forward)                ₹56.82
+EPS (Basic)                  ₹45.55
+─── PROFITABILITY ───
+ROE (Return on Equity)          N/A
+ROA (Return on Assets)          N/A
+─── DEBT & LIQUIDITY ───
+Debt/Equity Ratio             0.07x
+Current Ratio                   N/A
+Quick Ratio                     N/A
+─── DIVIDEND & RISK ───
+Dividend Yield                95.0%
+Beta                      ₹0.095 Cr
+------------------------  ---------
+
+  💡 QUICK INTERPRETATION:
+  P/E 38.508022x → Premium valuation (high growth expected)
+  D/E 0.07x → Very low debt, financially safe ✅
+
+═════════════════════════════════════════════════════════════════
+  📈 INCOME STATEMENT — Last 5 Years (₹ Crores)
+═════════════════════════════════════════════════════════════════
+Metric            2025     2024     2023     2022
+----------------  -------  -------  -------  -------
+Total Revenue     ₹52,041  ₹47,758  ₹43,279  ₹38,426
+Cost Of Revenue   ₹12,198  ₹12,070  ₹11,942  ₹10,352
+Gross Profit      ₹39,844  ₹35,689  ₹31,336  ₹28,075
+Operating Income  ₹12,581  ₹10,468  ₹9,277   ₹8,100
+EBITDA            ₹16,559  ₹13,883  ₹12,111  ₹6,752
+Pretax Income     ₹13,752  ₹11,088  ₹9,408   ₹4,481
+Tax Provision     ₹2,772   ₹1,439   ₹848     ₹1,076
+Net Income        ₹10,929  ₹9,576   ₹8,474   ₹3,273
+
+  📊 MARGIN ANALYSIS:
+Metric              2025    2024    2023    2022
+------------------  ------  ------  ------  ------
+Gross Margin %      76.56%  74.73%  72.41%  73.06%
+Operating Margin %  24.18%  21.92%  21.44%  21.08%
+Net Margin %        21.0%   20.05%  19.58%  8.52%
+
+═════════════════════════════════════════════════════════════════
+  💰 CASH FLOW STATEMENT — Last 5 Years (₹ Crores)
+═════════════════════════════════════════════════════════════════
+Metric               2025     2024     2023     2022     2021
+-------------------  -------  -------  -------  -------  ------
+Operating Cash Flow  ₹14,072  ₹12,135  ₹4,959   ₹8,985   N/A
+Capital Expenditure  ₹-2,129  ₹-2,202  ₹-2,086  ₹-1,495  N/A
+Investing Cash Flow  ₹-5,306  ₹-690    ₹-7,944  ₹-5,725  N/A
+Financing Cash Flow  ₹-7,906  ₹-6,710  ₹2,376   ₹-5,193  N/A
+Free Cash Flow       ₹11,944  ₹9,933   ₹2,874   ₹7,490   N/A
+
+  💡 FCF Yield (Latest Year) = 2.84%
+  Moderate FCF yield — acceptable ✅
+
+═════════════════════════════════════════════════════════════════
+  🏦 BALANCE SHEET SNAPSHOT (₹ Crores)
+═════════════════════════════════════════════════════════════════
+Metric                                   2025     2024     2023     2022     2021
+---------------------------------------  -------  -------  -------  -------  ------
+Total Assets                             ₹92,101  ₹85,500  ₹80,744  ₹69,800  N/A
+Total Liabilities Net Minority Interest  N/A      N/A      N/A      N/A      N/A
+Stockholders Equity                      ₹72,218  ₹63,667  ₹55,995  ₹48,011  N/A
+Total Debt                               ₹2,362   ₹3,274   ₹6,886   ₹1,290   N/A
+Cash And Cash Equivalents                N/A      N/A      N/A      N/A      N/A
+
+═════════════════════════════════════════════════════════════════
+  🎯 OVERALL HEALTH SCORECARD
+═════════════════════════════════════════════════════════════════
+-----------  -------------------------------
+❌ ROE        N/A% — Below 15% threshold
+✅ D/E Ratio  0.07x — Safe debt level
+✅ P/E Ratio  38.5x — Positive earnings
+✅ P/B Ratio  5.4x — Trading above book value
+-----------  -------------------------------
+
+  SCORE: 3/4 parameters healthy
+  👍 Good — Most parameters healthy, minor concerns
+
+═════════════════════════════════════════════════════════════════
+  📰 LATEST NEWS
+═════════════════════════════════════════════════════════════════
+
+  [1] No title
+      Publisher: Unknown  |  Time: N/A
+      Link     : 
+  ────────────────────────────────────────────────────────────
+
+  [2] No title
+      Publisher: Unknown  |  Time: N/A
+      Link     : 
+  ────────────────────────────────────────────────────────────
+
+  [3] No title
+      Publisher: Unknown  |  Time: N/A
+      Link     : 
+  ────────────────────────────────────────────────────────────
+
+  [4] No title
+      Publisher: Unknown  |  Time: N/A
+      Link     : 
+  ────────────────────────────────────────────────────────────
+
+  [5] No title
+      Publisher: Unknown  |  Time: N/A
+      Link     : 
+  ────────────────────────────────────────────────────────────
+
+█████████████████████████████████████████████████████████████████
+  ANALYSIS COMPLETE — Sun Pharmaceutical Industries Limited
+█████████████████████████████████████████████████████████████████
+
+
+  Analyze another stock? (y/n): 
+  👋 Happy investing!
+

@@ -1,0 +1,13 @@
+[ {
+  "id" : "f6d13252-3e07-4815-8328-65668fc6b30f",
+  "recipeTitle" : "chicken",
+  "title" : "chicken do pyaza",
+  "summary" : "this is chicken recipe",
+  "content" : "This is necessary",
+  "imagePath" : "data/uploads/f6d13252-3e07-4815-8328-65668fc6b30f.png",
+  "imageUrl" : "/uploads/f6d13252-3e07-4815-8328-65668fc6b30f.png",
+  "authorId" : "5882e346-ddbf-4067-9638-3f1de534f619",
+  "authorName" : "Aman",
+  "tags" : [ "chicken", "garlic", "tomato" ],
+  "createdAt" : 1774121961.763572000
+} ]

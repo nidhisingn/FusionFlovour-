@@ -1,0 +1,452 @@
+======================================================================
+              UPDATED WATCHLIST — NEW SECTORS (2025–26)
+======================================================================
+
+Context:
+  The IT sector is removed for now due to global slowdown/US uncertainty.
+
+
+----------------------------------------------------------------------
+WHY THESE SECTORS MAKE SENSE RIGHT NOW
+----------------------------------------------------------------------
+
+IT sector (removed ✅)
+  -> Global slowdown + US uncertainty
+
+PETROLEUM
+  -> India's energy demand growing
+  -> Govt-influenced pricing can stabilize demand
+
+OIL & GAS
+  -> Upstream exploration / realization cycles can benefit ONGC/Oil India
+
+FMCG
+  -> Rural recovery + premiumization trend
+
+ROAD / INFRA
+  -> Government capex cycle; strong order books
+
+PSU
+  -> Government capex supercycle (defence + power + rail)
+
+---
+
+----------------------------------------------------------------------
+YOUR NEW WATCHLIST (5 sectors)
+----------------------------------------------------------------------
+
+SECTOR 1 — FMCG (4 stocks)
+
+```
+HINDUNILVR.NS  → HUL (already analyzed, keep as benchmark)
+NESTLEIND.NS   → Nestle India
+BRITANNIA.NS   → Britannia Industries
+MARICO.NS      → Marico (Parachute, Saffola)
+```
+
+Why these:
+  • Different sub-segments inside FMCG:
+      - HUL       = household products
+      - Nestle    = food/beverages
+      - Britannia = biscuits/bakery
+      - Marico    = hair oil + edible oil
+  • Comparing them shows different business models within same sector.
+
+---
+
+SECTOR 2 — PETROLEUM / OIL MARKETING (4 stocks)
+
+```
+RELIANCE.NS    → Reliance Industries
+BPCL.NS        → Bharat Petroleum
+HPCL.NS        → Hindustan Petroleum
+IOC.NS         → Indian Oil Corporation
+```
+
+Why these:
+  • Reliance is private; BPCL/HPCL/IOC are PSU oil marketing companies
+  • Good comparison: private vs PSU efficiency
+  • Influenced by crude prices + govt pricing decisions
+
+Key metric to learn:
+  GRM (Gross Refining Margin)
+    = Revenue per barrel − Cost per barrel
+    Higher GRM => more profitable refining
+    Often more important than EBITDA margin for OMCs
+
+---
+
+SECTOR 3 — OIL & GAS EXPLORATION (3 stocks)
+
+```
+ONGC.NS        → Oil and Natural Gas Corporation
+OIL.NS         → Oil India Limited
+GAIL.NS        → GAIL India (gas distribution)
+```
+
+Why these:
+  • Different from petroleum marketing: these extract/distribute oil & gas
+  • Revenue linked to global crude prices
+  • ONGC/Oil India = upstream (extraction)
+  • GAIL = midstream (distribution pipelines)
+
+Key metric:
+  Reserve Replacement Ratio
+    -> Are they finding new reserves faster than depletion?
+    -> Above 1.0 = sustainable
+    -> Below 1.0 = reserves shrinking
+
+---
+
+SECTOR 4 — ROAD / INFRASTRUCTURE (final picks)
+
+Initial list had some noise; final picks below:
+
+```
+LT.NS          → Larsen & Toubro
+NTPC.NS        → NTPC (power plants)
+PWRGRID.NS     → Power Grid Corporation
+IRCON.NS       → IRCON International (railways + roads)
+NBCC.NS        → NBCC India (govt construction)
+PNC.NS         → PNC Infratech (road construction)
+```
+
+Why these:
+  • L&T is the giant: engineering + construction + services
+  • NTPC/Power Grid: power infrastructure PSUs
+  • IRCON/NBCC/PNC: govt-linked construction beneficiaries
+
+Key metric:
+  Order Book Size
+    -> Total value of contracts won but not yet executed
+    -> Larger order book = better revenue visibility
+
+  Order Book / Annual Revenue
+    -> 3–4x = ~3–4 years visibility
+    -> <2x  = limited visibility
+
+---
+
+SECTOR 5 — PSU (Government companies) (6 stocks)
+
+```
+COALINDIA.NS   → Coal India (largest coal producer)
+BEL.NS         → Bharat Electronics (defense electronics)
+HAL.NS         → Hindustan Aeronautics (aircraft)
+RVNL.NS        → Rail Vikas Nigam (railway construction)
+BHEL.NS        → Bharat Heavy Electricals
+RECLTD.NS      → REC Limited (power financing)
+```
+
+Why these:
+  • Covers defence (BEL/HAL), energy (Coal India), railways (RVNL),
+    heavy engineering (BHEL), financing (REC)
+  • PSU stocks are highly policy-driven; govt decisions can move price fast
+
+Key things to watch:
+  • Govt capex budget allocations
+  • Order inflows (Defence / Railways / Power)
+  • Disinvestment news (govt selling stake can be negative)
+  • Dividend policy (PSUs often pay high dividends)
+  • Leadership changes by govt
+
+---
+
+----------------------------------------------------------------------
+COMPLETE UPDATED WATCHLIST (Summary)
+----------------------------------------------------------------------
+
+```
+SECTOR          TICKER          COMPANY
+──────────────────────────────────────────────────
+FMCG            HINDUNILVR.NS   HUL
+                NESTLEIND.NS    Nestle India
+                BRITANNIA.NS    Britannia
+                MARICO.NS       Marico
+
+PETROLEUM       RELIANCE.NS     Reliance Industries
+                BPCL.NS         BPCL
+                HPCL.NS         HPCL
+                IOC.NS          Indian Oil
+
+OIL & GAS       ONGC.NS         ONGC
+                OIL.NS          Oil India
+                GAIL.NS         GAIL India
+
+ROAD/INFRA      LT.NS           L&T
+                NTPC.NS         NTPC
+                PWRGRID.NS      Power Grid
+                IRCON.NS        IRCON International
+                PNC.NS          PNC Infratech
+
+PSU             COALINDIA.NS    Coal India
+                BEL.NS          Bharat Electronics
+                HAL.NS          HAL
+                RVNL.NS         RVNL
+                BHEL.NS         Bharat Heavy Electricals
+                RECLTD.NS       REC Limited
+──────────────────────────────────────────────────
+TOTAL: 22 stocks across 5 sectors
+```
+
+---
+
+----------------------------------------------------------------------
+SECTOR-SPECIFIC PARAMETERS — WHAT TO LOOK FOR
+----------------------------------------------------------------------
+
+FMCG — same as before
+```
+KEY METRICS:
+→ Volume growth (units sold, not just revenue)
+→ Gross margin trend
+→ Rural vs urban growth split
+→ Premium product % of revenue (higher = better)
+→ Distribution reach (number of outlets)
+
+IDEAL NUMBERS:
+Revenue growth    → 8-15%
+EBITDA margin     → 18-28%
+ROE               → 30%+
+D/E               → Below 0.5
+P/E               → 40-70x (premium sector)
+```
+
+---
+
+Petroleum / Oil Marketing
+```
+KEY METRICS:
+→ GRM (Gross Refining Margin) — most important
+→ Inventory gain/loss (rising crude = inventory gain)
+→ Marketing margin on petrol/diesel
+→ Debt levels (these are capital heavy)
+→ Government subsidy impact
+
+IDEAL NUMBERS:
+GRM               → $6-10 per barrel is healthy
+D/E               → 0.5-1.5 (capital intensive, some debt ok)
+P/E               → 6-12x (low because cyclical)
+Dividend Yield    → 4-8% (PSU OMCs pay high dividends)
+
+SPECIAL RISK:
+Government controls petrol/diesel prices in India.
+When crude rises but government doesn't allow
+price hike → marketing margins collapse → profits fall.
+This is the biggest risk for BPCL, HPCL, IOC.
+```
+
+---
+
+Oil and Gas Exploration
+```
+KEY METRICS:
+→ Crude oil realization (price received per barrel)
+→ Reserve replacement ratio
+→ Production volume growth
+→ Operating cost per barrel
+
+IDEAL NUMBERS:
+Revenue growth    → Linked to oil prices, not fixed
+EBITDA margin     → 40-55% (asset heavy but high margin)
+D/E               → Below 0.5
+P/E               → 8-15x
+Dividend Yield    → 5-10% (ONGC pays high dividends)
+
+SPECIAL WATCH:
+Global crude oil price is the biggest driver.
+Brent crude above $80 = ONGC/Oil India very profitable
+Brent crude below $60 = margins under pressure
+Always check current Brent crude price before analyzing.
+```
+
+---
+
+Road and Infrastructure
+```
+KEY METRICS:
+→ Order book size and growth
+→ Order inflows per quarter
+→ Revenue from operations (execution rate)
+→ EBITDA margin
+→ Debt levels (infra companies carry debt)
+→ Working capital cycle
+
+IDEAL NUMBERS:
+Order book/Revenue → 3-4x
+Revenue growth     → 15-25%
+EBITDA margin      → 12-20%
+D/E                → 0.5-2 (some debt acceptable)
+P/E                → 20-35x
+
+KEY QUESTION: Is order book growing faster than execution?
+If YES → future revenue is secured → bullish
+If NO  → pipeline drying up → concerning
+```
+
+---
+
+PSU Stocks
+```
+KEY METRICS:
+→ Order inflows (especially defense orders for BEL/HAL)
+→ Government budget allocation to their sector
+→ Capacity utilization
+→ Dividend payout ratio
+→ Disinvestment news
+
+IDEAL NUMBERS:
+Revenue growth    → 15-30% (during capex supercycle)
+EBITDA margin     → Varies widely by company
+D/E               → Below 1
+P/E               → 25-45x (re-rated significantly in 2023-24)
+Dividend Yield    → 2-5%
+
+SPECIAL CHARACTERISTIC:
+PSU stocks are driven heavily by government policy.
+One budget announcement can move them 10-20% in a day.
+News trading opportunities are very high here.
+```
+
+---
+
+----------------------------------------------------------------------
+UPDATED TASK LIST (New sectors)
+----------------------------------------------------------------------
+
+Task A — Run your script on all 22 stocks
+```
+Run stock_analyzer.py on all 22 tickers.
+Save the Excel output for each.
+
+Focus on:
+→ Revenue trend
+→ Margin trend
+→ D/E ratio
+→ FCF
+→ 52W position
+
+DEADLINE: 2-3 days
+(takes 10 minutes per stock)
+```
+
+---
+
+Task B — Sector comparison tables
+```
+Fill comparison tables for each sector
+(same format as Module 2 Task 2.2)
+
+ADDITIONAL COLUMN TO ADD for Petroleum:
+→ GRM if available
+→ Dividend Yield (important for PSU/Oil stocks)
+
+RANK within each sector after filling.
+```
+
+---
+
+Task C — Learn sector-specific news to track
+```
+FMCG:
+→ Monthly rural consumption index
+→ Commodity prices (palm oil, wheat, crude)
+→ GST changes on FMCG products
+
+PETROLEUM/OIL:
+→ Brent crude price (check daily: finance.yahoo.com BZ=F)
+→ Government petrol/diesel price revision news
+→ OPEC production decisions
+
+ROAD/INFRA:
+→ Monthly infrastructure ministry order announcements
+→ Quarterly order inflow data from each company
+→ Union budget infrastructure allocation
+
+PSU:
+→ Defence ministry order announcements
+→ Railway budget and order announcements
+→ Disinvestment news from DIPAM
+→ Government capital infusion announcements
+```
+
+---
+
+Task D — Special PSU news trading opportunity
+```
+PSU stocks are BEST for news-based trading
+because government announcements are predictable:
+
+CALENDAR TO MAINTAIN:
+→ Union Budget → Feb 1 every year
+   (defence/infra/railway allocation directly moves stocks)
+
+→ Defence Ministry quarterly order announcements
+   (BEL, HAL move 5-15% on large orders)
+
+→ Railway Ministry announcements
+   (RVNL moves on new project announcements)
+
+→ Coal India quarterly production data
+
+→ ONGC quarterly crude production numbers
+
+SET UP GOOGLE ALERTS FOR:
+"Defence order India"
+"NTPC power plant order"
+"RVNL new contract"
+"Coal India production"
+"BPCL petrol price"
+```
+
+---
+
+----------------------------------------------------------------------
+THE MOST INTERESTING COMPARISON TO DO
+----------------------------------------------------------------------
+
+Once you've analyzed all sectors run this comparison:
+
+```
+DEFENSIVE vs CYCLICAL:
+
+DEFENSIVE (stable earnings regardless of economy):
+→ HUL, Nestle, Britannia, Marico
+→ These don't fall much in recessions
+
+CYCLICAL (earnings swing with economy and commodity):
+→ BPCL, HPCL, IOC, ONGC
+→ These can double or halve in one year
+
+PSU POLICY DRIVEN:
+→ BEL, HAL, RVNL, Coal India
+→ These move on government decisions
+
+UNDERSTANDING ALL THREE TYPES
+gives you a complete picture of
+how different businesses behave
+in different market conditions.
+```
+
+---
+
+----------------------------------------------------------------------
+ONE IMPORTANT ADDITION TO YOUR SCRIPT
+----------------------------------------------------------------------
+
+For these new sectors add **Dividend Yield tracking** more prominently — PSU and oil stocks are often bought specifically for dividends:
+
+```python
+# Add this to your analysis for PSU/Oil stocks
+# Already in script but note these benchmarks:
+
+Dividend Yield > 5%  = High yield, income stock
+Dividend Yield 2-5%  = Moderate yield
+Dividend Yield < 2%  = Growth focused, low dividend
+```
+
+BPCL, Coal India, ONGC, Power Grid regularly give 5-8% dividend yield — which means even if stock price doesn't move you're earning 5-8% annually just from dividends.
+
+---
+
+Start with running the script on all 22 stocks. Once you have the data paste it here the same way you pasted HUL/TCS/Sun Pharma output — and we'll do a full sector-by-sector analysis together.

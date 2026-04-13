@@ -1,0 +1,197 @@
+======================================================================
+                 6 PILLARS OF QUALITATIVE ANALYSIS
+======================================================================
+
+Goal:
+  Use this framework to judge *business quality* (not just numbers).
+
+
+----------------------------------------------------------------------
+PILLAR 1 — BUSINESS MODEL
+----------------------------------------------------------------------
+Core Question:
+  How does the company make money and is it sustainable?
+
+- Understand the revenue mechanism — product, service, subscription, transaction
+- Recurring revenue is better than one-time revenue
+- Does the model get stronger as it scales?
+- Can it be easily copied by competitors?
+
+Key check:
+  If the company disappeared tomorrow, would customers genuinely miss it,
+  or would they easily find an alternative?
+
+---
+
+----------------------------------------------------------------------
+PILLAR 2 — COMPETITIVE MOAT
+----------------------------------------------------------------------
+Core Question:
+  What stops competitors from taking market share?t
+
+Moat Types (examples):
+  - Brand          : HUL, Nestle, Asian Paints
+  - Switching cost : TCS, Infosys (replacing IT systems is costly)
+  - Cost advantage : Divi's Labs (low-cost API manufacturer)
+  - Network effect : Zerodha, exchanges
+  - Regulatory     : Coal India, airport operators
+
+Key check:
+  If a well-funded competitor entered tomorrow, how long would it take
+  to seriously damage this company?
+
+---
+
+----------------------------------------------------------------------
+PILLAR 3 — MANAGEMENT QUALITY
+----------------------------------------------------------------------
+Core Question:
+  Are the people running this company trustworthy and capable?
+
+- Did past guidance match actual results?
+- What do they do with profits? (reinvest wisely vs random acquisitions)
+- Promoter holding high and not pledged?
+- Do they communicate failures openly?
+- Does management own significant shares personally?
+
+Red flags (watchlist):
+  -> Frequent auditor changes
+  -> Related-party transactions
+  -> Qualified audit reports
+  -> Sudden CFO/director resignations
+  -> Promoter pledging increasing every quarter
+
+---
+
+----------------------------------------------------------------------
+PILLAR 4 — INDUSTRY TAILWINDS
+----------------------------------------------------------------------
+Core Question:
+  Is the overall industry growing and will it continue?
+
+Examples:
+  - IT      : Global digital transformation
+  - Pharma  : Aging population, India as global manufacturing hub
+  - FMCG    : Premiumization, rising middle class
+  - Finance : Financialization of Indian savings
+  - Infra   : Government capex cycle
+
+Key check:
+  Is this industry growing faster than GDP?
+  Is it early-stage, growth-stage, or mature-stage?
+
+---
+
+----------------------------------------------------------------------
+PILLAR 5 — COMPANY-SPECIFIC RISKS
+----------------------------------------------------------------------
+Core Question:
+  What could go wrong and how bad would it be?
+
+Risk Types (examples):
+  - Concentration : One product/drug = 30% revenue (FDA risk in pharma)
+  - Regulatory    : Paytm — RBI restrictions overnight
+  - Disruption    : EVs disrupting OEMs, fintech disrupting banks
+  - Promoter      : Integrity / governance issues
+  - Global         : Export dependence (US recession risk for IT)
+
+Key check:
+  If this risk materializes, is it a temporary drawdown
+  or does it permanently damage the business?
+
+---
+
+----------------------------------------------------------------------
+PILLAR 6 — COMPETITIVE POSITIONING
+----------------------------------------------------------------------
+Core Question:
+  Is this company gaining or losing within its sector?
+
+- Track revenue market share over 5 years
+- Gaining share = compounder
+- Losing share = value trap (looks cheap but keeps getting cheaper)
+- Read concall transcripts for management tone
+
+Positive vs warning language (concall signals):
+
+POSITIVE
+  - "Deal wins accelerating"
+  - "Pipeline at record levels"
+  - "Margin expansion expected"
+  - "Gaining market share"
+
+WARNING
+  - "Macro headwinds"
+  - "Softness in demand"
+  - "Recovery expected in H2"
+  - "Clients deferring decisions"
+
+---
+
+----------------------------------------------------------------------
+QUICK REVISION CARD
+----------------------------------------------------------------------
+
+P1 — Business Model
+  -> How do they earn? Is it recurring? Can it be copied?
+
+P2 — Moat
+  -> Brand / Switching cost / Cost advantage / Network / Regulatory
+
+P3 — Management
+  -> Trustworthy? Track record? Promoter holding? Capital allocation?
+
+P4 — Tailwinds
+  -> Industry growth? Macro trends supportive for 5–10 years?
+
+P5 — Risks
+  -> Concentration? Regulatory? Disruption? Promoter? Global?
+
+P6 — Competitive Position
+  -> Gaining or losing market share within sector?
+
+---
+
+----------------------------------------------------------------------
+WHERE DOES THIS COME FROM?
+----------------------------------------------------------------------
+
+These 6 pillars are not from one single source. They are a distillation of frameworks from the world's most respected investors and books:
+
+**Warren Buffett** — Pillar 2 (Moat concept) and Pillar 3 (Management quality). He has written about economic moats and management integrity extensively in his **Berkshire Hathaway Annual Letters** — all freely available at berkshirehathaway.com. Some of the best investing education written in plain English.
+
+**Peter Lynch** — Pillar 1 (Business Model understanding). His book **"One Up on Wall Street"** says invest in businesses you understand from daily life. He turned qualitative observations into massive returns managing Fidelity Magellan Fund.
+
+**Phil Fisher** — Pillar 3 and 6 (Management quality and competitive position). His book **"Common Stocks and Uncommon Profits"** introduced the concept of **"Scuttlebutt"** — talking to customers, suppliers, competitors to understand a business qualitatively before investing.
+
+**Michael Porter** — Pillar 2 and 4 (Moat and Industry analysis). His **"Five Forces Framework"** from Harvard Business School is the foundation of competitive analysis taught in every MBA program worldwide.
+
+**Pat Dorsey** — Most directly, Pillar 2 is almost entirely from his book **"The Little Book That Builds Wealth"** where he systematically categorizes moat types exactly as explained above. Pat Dorsey was Director of Equity Research at Morningstar.
+
+**Sanjay Bakshi** — Indian context for all 6 pillars. Professor at MDI Gurgaon and fund manager. His lectures and writings on qualitative investing in Indian markets are freely available and are some of the best India-specific investing content available.
+
+---
+
+----------------------------------------------------------------------
+RECOMMENDED READING (in order)
+----------------------------------------------------------------------
+
+BOOK 1 -> One Up on Wall Street — Peter Lynch
+          (easiest + practical)
+
+BOOK 2 -> The Little Book That Builds Wealth — Pat Dorsey
+          (best on moats)
+
+BOOK 3 -> Common Stocks and Uncommon Profits — Phil Fisher
+          (management quality + qualitative research)
+
+BOOK 4 -> Berkshire Hathaway Annual Letters — Warren Buffett
+          (free online; start with 1977–2000)
+
+BOOK 5 -> The Intelligent Investor — Benjamin Graham
+          (valuation discipline, margin of safety)
+
+These five sources cover ~90% of what a serious long-term investor needs.
+Everything else is refinement on top of these fundamentals.
+
+======================================================================

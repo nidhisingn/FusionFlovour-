@@ -1,0 +1,39 @@
+
+█████████████████████████████████████████████████████████████████
+  🇮🇳  INDIAN STOCK ANALYZER
+  Income Statement | Key Ratios | Cash Flow | Balance Sheet
+█████████████████████████████████████████████████████████████████
+
+  📁 Log folder : runs
+  📝 Output log : 03mar_01-06am.txt
+
+  TICKER FORMAT:
+  ┌─────────────────┬─────────────────────┐
+  │ Company         │ Ticker Symbol       │
+  ├─────────────────┼─────────────────────┤
+  │ HUL             │ HINDUNILVR.NS       │
+  │ TCS             │ TCS.NS              │
+  │ Sun Pharma      │ SUNPHARMA.NS        │
+  │ Infosys         │ INFY.NS             │
+  │ HDFC Bank       │ HDFCBANK.NS         │
+  │ Reliance        │ RELIANCE.NS         │
+  │ Asian Paints    │ ASIANPAINT.NS       │
+  │ Maruti Suzuki   │ MARUTI.NS           │
+  │ Bajaj Finance   │ BAJFINANCE.NS       │
+  │ Wipro           │ WIPRO.NS            │
+  └─────────────────┴─────────────────────┘
+    
+─────────────────────────────────────────────────────────────────
+  Enter ticker symbol(s) (comma-separated) or 'quit' to exit:   ℹ️  No exchange specified. Trying NSE: N.NS
+
+█████████████████████████████████████████████████████████████████
+  FETCHING DATA FOR: N.NS
+█████████████████████████████████████████████████████████████████
+  Please wait...
+
+  ❌ ERROR: Could not find data for 'N.NS'
+  Make sure ticker is correct. Example: HINDUNILVR.NS for HUL on NSE
+
+  Analyze another stock? (y/n): 
+  👋 Happy investing!
+

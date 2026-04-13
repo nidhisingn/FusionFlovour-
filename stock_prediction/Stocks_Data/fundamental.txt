@@ -1,0 +1,105 @@
+======================================================================
+                   FUNDAMENTAL STOCK SELECTION PLAYBOOK
+======================================================================
+
+Purpose:
+  A simple, repeatable checklist to move from “stock ideas” -> “good decisions”.
+
+
+----------------------------------------------------------------------
+1) THE DECISION TREE (End-to-End)
+----------------------------------------------------------------------
+
+Step 0 — Start with a sector shortlist
+  • Analyze one sector at a time
+  • Rank stocks inside that sector
+
+Step 1 — Fundamental Strength?
+  • Is the top pick fundamentally strong?
+      - YES  -> Continue
+      - NO   -> Skip and go to the next ranked stock
+
+Step 2 — Valuation Reasonable?
+  • Is valuation reasonable?
+      - YES (P/E near or below historical) -> BUY / ACCUMULATE
+      - NO  (P/E very high)                -> WATCHLIST, wait for correction
+
+Step 3 — Allocation (Position Sizing)
+  • High conviction   -> 15–20%
+  • Medium conviction -> 8–10%
+  • Always keep cash  -> 15–20%
+
+Step 4 — Entry Method
+  • Clearly cheap     -> Lump sum
+  • Uncertain timing  -> Stagger buys over ~3 months
+
+Step 5 — Exit Plan (Set BEFORE Buying)
+  • Target price  -> where you take profit
+  • Stop loss     -> where you cut loss
+  • Thesis break  -> what would change your mind
+
+Step 6 — Monitoring (Quarterly)
+  • Thesis intact  -> HOLD
+  • Thesis broken  -> EXIT (regardless of price)
+  • Price hit target -> PARTIAL / FULL exit
+
+
+----------------------------------------------------------------------
+2) THE MINDSET SHIFT (Most Important)
+----------------------------------------------------------------------
+
+Most people think investing is about finding the right stock.
+It’s actually about making the right decision at each stage.
+
+Outcome drivers (equal weight):
+  • Right stock       -> 20%
+  • Right price       -> 20%
+  • Right allocation  -> 20%
+  • Right exit        -> 20%
+  • Right mindset     -> 20%
+      (stay calm during crashes, don’t panic sell)
+
+Key message:
+  Many people spend 100% of their energy on picking stocks, and 0% on the
+  other 4 parts — that’s why they lose money even with good companies.
+
+
+----------------------------------------------------------------------
+3) PRACTICAL NEXT STEPS (Use Your Script)
+----------------------------------------------------------------------
+
+You already analyzed: HUL, TCS, Sun Pharma.
+
+Next plan:
+  Step 1 -> Analyze 2 more IT stocks
+            - Infosys
+            - HCL Tech
+
+  Step 2 -> Rank IT sector
+            - TCS vs Infosys vs HCL Tech
+
+  Step 3 -> Pick best 1–2 from IT
+
+  Step 4 -> Repeat for FMCG
+            - HUL vs Nestle vs Britannia
+
+  Step 5 -> Pick best from FMCG
+
+  Step 6 -> Now you have 4–5 strong stocks across 2–3 sectors
+
+  Step 7 -> Check valuations -> decide allocation -> set entry + exit plan
+
+======================================================================
+
+
+
+QUANTITATIVE                    QUALITATIVE
+(What happened)                 (Why it happened & will continue)
+
+Revenue grew 15%           →    Why? New product? Market share gain?
+Margins expanded           →    Why? Pricing power? Cost efficiency?
+ROE is 42%                 →    Why? Great management? Business model?
+Debt is zero               →    Why? Generates so much cash it doesn't need debt?
+
+Numbers tell you the PAST.
+Qualitative tells you the FUTURE.

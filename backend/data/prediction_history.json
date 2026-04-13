@@ -1,0 +1,36 @@
+[ {
+  "id" : "0b23d25a-b0e2-45b2-a4c1-ae566609194f",
+  "userId" : "5882e346-ddbf-4067-9638-3f1de534f619",
+  "ingredients" : [ "garlic", "chicken", "tomato" ],
+  "prediction" : "Easy Vegetable Beef Soup",
+  "alternatives" : [ "Easy Vegetable Beef Soup", "Easy To Make Spring Rolls", "Asparagus and Pea Soup: Real Convenience Food", "Quinoa and Chickpea Salad with Sun-Dried Tomatoes and Dried Cherries", "Corn Avocado Salsa" ],
+  "createdAt" : 1774121988.046068000
+}, {
+  "id" : "300670ac-5cdf-4912-9760-ff6bca965ddd",
+  "userId" : "5882e346-ddbf-4067-9638-3f1de534f619",
+  "ingredients" : [ "garlic", "chicken", "tomato" ],
+  "prediction" : "Easy Vegetable Beef Soup",
+  "alternatives" : [ "Easy Vegetable Beef Soup", "Easy To Make Spring Rolls", "Asparagus and Pea Soup: Real Convenience Food", "Quinoa and Chickpea Salad with Sun-Dried Tomatoes and Dried Cherries", "Corn Avocado Salsa" ],
+  "createdAt" : 1774122020.201072000
+}, {
+  "id" : "8258b252-74b8-41f3-bd74-a8b86273f6a3",
+  "userId" : "7b9fd78c-26d8-447b-91b5-3640c8080f9d",
+  "ingredients" : [ "chicken", "tomato", "garlic" ],
+  "prediction" : "Red Lentil Soup with Chicken and Turnips",
+  "alternatives" : [ "Red Lentil Soup with Chicken and Turnips", "Red Kidney Bean Jambalaya", "Garlicky Kale", "Asparagus and Pea Soup: Real Convenience Food", "Corn Avocado Salsa" ],
+  "createdAt" : 1775479895.917955000
+}, {
+  "id" : "bb6ffd31-594d-47a1-8f09-41b1822f9aad",
+  "userId" : "a29ccc04-dfb6-42cd-982f-ccc7ee6baf9c",
+  "ingredients" : [ "tomato", "paneer", "onion" ],
+  "prediction" : "Spicy Black-Eyed Pea Curry with Swiss Chard and Roasted Eggplant",
+  "alternatives" : [ "Spicy Black-Eyed Pea Curry with Swiss Chard and Roasted Eggplant", "Finger Foods: Frittata Muffins", "Slow Cooker Beef Stew", "Tomato and lentil soup", "Red Lentil Soup with Chicken and Turnips" ],
+  "createdAt" : 1775742522.431635000
+}, {
+  "id" : "e1bac30e-1198-46bc-aab6-6e936c4142a9",
+  "userId" : "a29ccc04-dfb6-42cd-982f-ccc7ee6baf9c",
+  "ingredients" : [ "tomato", "paneer", "onion" ],
+  "prediction" : "Spicy Black-Eyed Pea Curry with Swiss Chard and Roasted Eggplant",
+  "alternatives" : [ "Spicy Black-Eyed Pea Curry with Swiss Chard and Roasted Eggplant", "Finger Foods: Frittata Muffins", "Slow Cooker Beef Stew", "Tomato and lentil soup", "Red Lentil Soup with Chicken and Turnips" ],
+  "createdAt" : 1775745836.802270000
+} ]

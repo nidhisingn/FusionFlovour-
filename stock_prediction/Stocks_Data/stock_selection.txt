@@ -1,0 +1,144 @@
+======================================================================
+                    STOCK SELECTION — STEP-BY-STEP PLAYBOOK
+======================================================================
+
+Objective:
+  Move from “ideas” -> “a small set of high-quality stocks” using a repeatable
+  process: Sector -> Screen -> Qualitative -> Valuation -> Buy plan.
+
+
+----------------------------------------------------------------------
+STEP 1 — START WITH WHAT YOU ALREADY KNOW (Peter Lynch rule)
+----------------------------------------------------------------------
+
+Before looking at any numbers, ask yourself:
+  • What industry do you work in?
+  • What products do you use daily?
+  • What services do you pay for every month?
+  • What businesses do you see growing around you?
+
+Why this matters:
+  You already have ground-level qualitative knowledge about industries you live
+  inside. You can often see changes before analysts do.
+
+You might already know:
+  • Which product is better
+  • Which brand is gaining popularity
+  • Which service people are switching to
+  • What problems exist that someone is solving
+
+Example:
+  If you work in IT — you may know who is winning deals, which technologies are
+  in demand, and which companies employees prefer. That is an edge even before
+  you open Screener.in.
+
+
+----------------------------------------------------------------------
+STEP 2 — SECTOR SELECTION FILTER (if you're unsure)
+----------------------------------------------------------------------
+
+FILTER 1 — TAILWIND CHECK
+  Is this sector growing faster than India’s GDP (~6–7%)?
+    - YES -> Proceed
+    - NO  -> Skip unless valuations are very cheap
+
+FILTER 2 — UNDERSTANDING CHECK
+  Do you understand how companies in this sector make money?
+    - YES -> Proceed
+    - NO  -> Learn first or skip
+
+FILTER 3 — CYCLE CHECK
+  Where is the sector in its cycle?
+    - Early/Growth -> Best time to enter
+    - Mature       -> Prefer best-in-class only
+    - Declining    -> Avoid (unless special situation)
+
+FILTER 4 — CURRENT SENTIMENT CHECK
+  Is the sector beaten down or overheated?
+    - Beaten down + fundamentals intact -> Opportunity
+    - Overheated + everyone excited     -> Be cautious
+
+Contrarian principle:
+  Best time to study a sector is when nobody is talking about it.
+  When everyone is excited, valuations stretch; when ignored, value hides.
+
+
+----------------------------------------------------------------------
+STEP 3 — STOCK SELECTION WITHIN A SECTOR (3-level funnel)
+----------------------------------------------------------------------
+
+LEVEL 1 — QUANTITATIVE SCREEN (eliminate weak companies)
+  Use Screener.in with these baseline filters:
+    • Revenue growth  > 10% (last 3 years)
+    • Net profit growth > 10%
+    • ROE             > 15%
+    • D/E             < 1.5
+    • Free Cash Flow  > 0
+
+  Result:
+    This removes ~70% of stocks. You should end up with ~5–8 candidates.
+
+LEVEL 2 — QUALITATIVE FILTER (pick the best 2–3)
+  Apply the “6 pillars” framework:
+    • Strongest moat?
+    • Best management?
+    • Gaining market share?
+    • Least business risk?
+
+LEVEL 3 — VALUATION CHECK (buy at the right price)
+  Compare:
+    • P/E vs historical average
+    • P/E vs sector peers
+    • 52-week position
+    • PEG ratio
+
+Final pick:
+  Choose 1–2 stocks with best combination of:
+    QUALITY + GROWTH + REASONABLE VALUATION
+
+
+----------------------------------------------------------------------
+Screener.in — QUICK SCREEN TEMPLATE
+----------------------------------------------------------------------
+
+Open: https://screener.in/screen
+
+Use these filters:
+  Sales growth 3Years      > 10
+  Profit growth 3Years     > 10
+  Return on equity         > 15
+  Debt to equity           < 1
+  Free cash flow           > 0
+
+Then:
+  • From results, filter by sector
+  • Do deeper work on the top 5–8 companies
+
+
+----------------------------------------------------------------------
+SECTOR ROTATION (Economic cycle cheat-sheet)
+----------------------------------------------------------------------
+
+Different sectors perform at different points of the economic cycle.
+
+Early Recovery
+  -> Banking, Auto, Real Estate
+     (rates falling, borrowing starts, demand improves)
+
+Growth Phase
+  -> IT, Consumer Goods, Industrials
+     (business investment + consumer spending strong)
+
+Late Cycle
+  -> Energy, Commodities, Metals
+     (inflation rising, raw material demand peaks)
+
+Recession / Slowdown
+  -> Pharma, FMCG, IT Services
+     (defensives hold up better)
+
+India context (2025–26):
+  Rates easing -> Early recovery bias -> Banking + consumption may benefit.
+  IT may be in temporary slowdown waiting for US recovery.
+
+======================================================================

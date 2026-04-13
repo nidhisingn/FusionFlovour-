@@ -1,0 +1,2 @@
+ticker,name,sector,industry,exchange,currency,current_price,prev_close,52w_high,52w_low,from_52w_high_pct,from_52w_low_pct,market_cap,pe_ttm,pe_fwd,pb,ps,peg,roe,roa,debt_to_equity_pct,current_ratio,quick_ratio,div_yield,beta,eps_trailing,eps_forward,fcf_yield_pct,health_score,health_max,error
+TCS.NS,Tata Consultancy Services Limited,Technology,Information Technology Services,NSI,INR,2613.5,2637.4,3710.0,2561.3,-29.56,2.04,9455871721472,19.818762,17.006952,8.330491,3.6256897,N/A,0.42635,0.22512,9.444,2.525,2.297,2.39,0.25,131.87,153.67245,3.82,5,5,

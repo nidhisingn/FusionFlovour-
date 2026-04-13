@@ -1,0 +1,306 @@
+======================================================================
+                 STOCK MARKET PARAMETERS — QUICK REFERENCE
+======================================================================
+
+Use this as a revision sheet while reading financial statements.
+
+
+----------------------------------------------------------------------
+INCOME STATEMENT FLOW (Big Picture)
+----------------------------------------------------------------------
+
+REVENUE (Top Line)
+  - Cost of Goods Sold
+= GROSS PROFIT
+  - Operating Expenses (salaries, rent, marketing)
+= EBITDA
+  - Depreciation & Amortization
+= EBIT
+  - Interest
+= EBT
+  - Tax
+= NET PROFIT / PAT (Bottom Line)
+
+----------------------------------------------------------------------
+1) REVENUE
+----------------------------------------------------------------------
+What it means:
+  • Total money earned from selling products/services
+
+Key points:
+  • Recorded when sale happens (accrual), not when cash is received
+  • Includes operating + non-operating revenue (asset sales, investments)
+  • Formula: Units Sold × Selling Price
+  • High revenue alone is meaningless if expenses grow faster
+
+----------------------------------------------------------------------
+2) EBITDA & EBITDA MARGIN
+----------------------------------------------------------------------
+What it means:
+  • Earnings Before Interest, Tax, Depreciation, Amortization
+  • Shows core operational profitability (removes financing + accounting noise)
+
+Formula:
+  • EBITDA = Revenue − Operating Expenses (before D&A, interest, tax)
+  • EBITDA Margin = EBITDA ÷ Revenue × 100
+
+Rules of thumb:
+  • Higher margin => more operationally efficient
+  • Typical margins: IT 20–35% | FMCG 15–25% | Retail 5–10%
+  • Compare within the same sector only
+
+----------------------------------------------------------------------
+3) NET PROFIT & NET MARGIN
+----------------------------------------------------------------------
+What it means:
+  • Final profit after suppliers, employees, lenders, and government
+  • Also called PAT (Profit After Tax) / Bottom Line
+
+Formula:
+  • Net Profit = EBITDA − Depreciation − Interest − Tax
+  • Net Margin = Net Profit ÷ Revenue × 100
+
+Signal:
+  • Consistently growing net profit = healthy business
+
+----------------------------------------------------------------------
+4) EQUITY (Shareholders' Equity)
+----------------------------------------------------------------------
+What it means:
+  • What shareholders own after all debts are paid
+
+Formula:
+  • Equity = Total Assets − Total Liabilities
+
+Components:
+  • Share Capital + Retained Earnings + Reserves & Surplus
+
+Analogy:
+  • House worth ₹50L, loan ₹30L -> Your equity = ₹20L
+
+----------------------------------------------------------------------
+5) EPS (Earnings Per Share)
+----------------------------------------------------------------------
+What it means:
+  • Profit attributable to each share
+
+Formula:
+  • EPS = Net Profit ÷ Total Shares Outstanding
+
+Signal:
+  • Higher EPS => more profitable per share
+  • EPS growing YoY => very bullish
+  • EPS is the base for P/E ratio
+
+----------------------------------------------------------------------
+6) P/E RATIO (Price to Earnings)
+----------------------------------------------------------------------
+What it means:
+  • How much investors pay for every ₹1 of earnings
+
+Formula:
+  • P/E = Stock Price ÷ EPS
+
+Interpretation:
+  • High P/E => high growth expected (or overvalued)
+  • Low P/E  => undervalued (or weak growth expected)
+
+Rules:
+  • Compare only within same sector
+  • Meaningless for loss-making companies
+
+----------------------------------------------------------------------
+7) P/B RATIO (Price to Book)
+----------------------------------------------------------------------
+What it means:
+  • How much investors pay for every ₹1 of net assets
+
+Formula:
+  • P/B = Stock Price ÷ Book Value Per Share
+
+Interpretation:
+  • P/B < 1  => below asset value (undervalued or in trouble)
+  • P/B 1–3  => fair range
+  • P/B > 5  => high growth expectations
+
+Best for:
+  • Banks, NBFCs, insurance companies
+
+----------------------------------------------------------------------
+8) ROE (Return on Equity)
+----------------------------------------------------------------------
+What it means:
+  • Efficiency of shareholder capital
+
+Formula:
+  • ROE = Net Profit ÷ Shareholders' Equity × 100
+
+Rule of thumb:
+  • <10% weak | 15–20% good | >20% excellent
+
+Warning:
+  • High ROE can be inflated by high debt. Check ROE with D/E.
+
+----------------------------------------------------------------------
+9) D/E RATIO (Debt to Equity)
+----------------------------------------------------------------------
+What it means:
+  • Debt level relative to shareholder capital
+
+Formula:
+  • D/E = Total Debt ÷ Total Equity
+
+Rule of thumb:
+  • <0.5 very safe | 0.5–1.5 moderate | >2 risky | >3 red flag
+
+Context:
+  • Capital-heavy sectors (infra/real estate) naturally run higher D/E
+  • Compare within same sector
+
+----------------------------------------------------------------------
+10) FREE CASH FLOW (FCF)
+----------------------------------------------------------------------
+What it means:
+  • Real cash generated after maintaining the business
+
+Formula:
+  • FCF = Operating Cash Flow − Capital Expenditure
+
+Why it matters:
+  • "Profit is opinion. Cash is fact."
+  • Positive FCF => dividends, buybacks, debt repayment, acquisitions
+  • Negative FCF in a mature company => warning
+
+Extra:
+  • FCF Yield = FCF ÷ Market Cap × 100
+
+----------------------------------------------------------------------
+11) BETA
+----------------------------------------------------------------------
+What it means:
+  • Volatility relative to the overall market
+
+Interpretation:
+  • Beta = 1   -> moves with market
+  • Beta > 1   -> more volatile (higher risk/reward)
+  • Beta < 1   -> more stable (defensive)
+  • Beta < 0   -> moves opposite to market
+
+----------------------------------------------------------------------
+12) 52-WEEK HIGH / LOW
+----------------------------------------------------------------------
+What it means:
+  • Highest/lowest price in the past 1 year
+
+Interpretation:
+  • Near 52W high -> strong momentum (confirm fundamentals)
+  • Near 52W low  -> potential opportunity (investigate WHY it fell)
+
+Key question:
+  • Business performance issue or market sentiment?
+
+----------------------------------------------------------------------
+13) MARKET CAPITALIZATION
+----------------------------------------------------------------------
+What it means:
+  • Total market value of the company
+
+Formula:
+  • Market Cap = Stock Price × Total Shares Outstanding
+
+Buckets (rough):
+  • Large Cap  > ₹20,000 Cr (stable, lower risk)
+  • Mid Cap    ₹5,000–20,000 Cr (growth + moderate risk)
+  • Small Cap  < ₹5,000 Cr (high growth + high risk)
+
+----------------------------------------------------------------------
+14) DIVIDEND YIELD
+----------------------------------------------------------------------
+What it means:
+  • Annual cash return from dividends relative to price
+
+Formula:
+  • Dividend Yield = Annual Dividend Per Share ÷ Stock Price × 100
+
+Notes:
+  • Useful for income-focused investors
+  • High yield + falling stock can be a trap (check the reason)
+
+----------------------------------------------------------------------
+NON-CASH & TIMING CONCEPTS
+----------------------------------------------------------------------
+Depreciation:
+  • Expense recorded yearly; cash left earlier when asset was bought
+  • Non-cash -> added back in cash flow
+
+Receivables:
+  • Sales booked but cash not received
+  • If receivables increase -> subtract in cash flow (cash stuck)
+
+Payables:
+  • Expenses booked but cash not paid
+  • If payables increase -> add back in cash flow (cash retained)
+
+Inventory:
+  • Cash spent on goods not yet sold
+  • If inventory increases -> subtract in cash flow (cash locked)
+
+----------------------------------------------------------------------
+TAXES (Quick Reference)
+----------------------------------------------------------------------
+Corporate Tax  : ~22–25% on company profits
+MAT            : Minimum tax floor, prevents zero-tax situations
+Deferred Tax   : Future tax due to timing differences
+GST            : Pass-through tax (not deducted from profit)
+TDS            : Advance tax deducted at source, adjusted later
+
+
+----------------------------------------------------------------------
+CASH FLOW STATEMENT — 3 SECTIONS
+----------------------------------------------------------------------
+Operating Cash Flow:
+  • Cash from core operations (most important) -> shows real business health
+
+Investing Cash Flow:
+  • Cash spent/received on assets, acquisitions, investments
+  • Usually negative for growing companies
+
+Financing Cash Flow:
+  • Cash from loans/repayments, share issuance, dividends
+  • Shows how company manages its capital
+
+----------------------------------------------------------------------
+THE GOLDEN CHECKLIST — Healthy Company
+----------------------------------------------------------------------
+✓ Revenue growing consistently YoY
+✓ EBITDA margin stable or expanding
+✓ Net profit growing
+✓ ROE above 15–20%
+✓ D/E below 1 (or industry-appropriate)
+✓ FCF positive and growing
+✓ EPS growing every year
+✓ Low/manageable interest burden
+✓ Receivables not growing faster than revenue
+✓ Inventory not piling up
+
+----------------------------------------------------------------------
+QUICK MEMORY (1-liners)
+----------------------------------------------------------------------
+REVENUE     -> What the company EARNS
+EBITDA      -> What operations GENERATE
+NET PROFIT  -> What shareholders KEEP
+EQUITY      -> What shareholders OWN
+FCF         -> What the company actually HAS in cash
+ROE         -> How EFFICIENTLY equity is used
+D/E         -> How RISKY the capital structure is
+P/E         -> How EXPENSIVE the stock is
+Beta        -> How VOLATILE the stock is
+
+----------------------------------------------------------------------
+ONE LINE RULE
+----------------------------------------------------------------------
+Never judge a stock by a single parameter.
+Always look at: Revenue + EBITDA Margin + Net Profit + ROE + D/E + FCF
+together over at least 3–5 years.
+
+======================================================================
