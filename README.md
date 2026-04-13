@@ -6,7 +6,7 @@
 ml-project/
   frontend/        # React + TypeScript frontend (user inputs ingredients)
   backend/         # Spring Boot backend (receives ingredients, runs ML python, auth/articles/history)
-  ml/              # Python ML and sample recipes dataset (CSV)
+  ml/              #Python ML and sample recipes dataset (CSV)
 ```
 
 ## New MVP features added
